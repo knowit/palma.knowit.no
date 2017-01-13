@@ -1,4 +1,4 @@
-# Knowit fagseminar Fredrikstad høsten 2016
+# Knowit fagseminar Berlin våren 2017
 
 ## Getting started
 
@@ -6,8 +6,8 @@ Development requirements: node.js.
 
 ## Get code and install dependencies
 
-    git clone git@github.com:knowit/fredrikstad.knowit.no.git
-    cd fredrikstad.knowit.no
+    git clone git@github.com:knowit/berlin.knowit.no.git
+    cd berlin.knowit.no
     npm install
 
 ## Build
