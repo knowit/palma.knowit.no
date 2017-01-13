@@ -1,0 +1,42 @@
+- progComView = progComView || false
+section#schedule.schedule(class={progComView: progComView})
+  .content
+    h1 Faglig program
+
+    each schedule in schedules
+      .schedule-day
+        h2= schedule.day
+        each collection in schedule.collections
+          if collection.entries
+            .schedule-collection(class="with-#{collection.entries.length}-entries")
+              h4= collection.time
+              each entry in collection.entries
+                .schedule-entry
+                  h5
+                    b #{entry.room}
+                  each slot in entry.slots
+                    - var talk = talks[slot]
+                    if talk
+                      .schedule-slot(data-talk-id=slot)
+                        if talk.pending && !progComView
+                          p tba
+                        else
+                          p(lang=talk.languageCode)
+                            a(id='p_'+slot href='#'+slot)= talk.title
+                          address
+                            if talk.speakers
+                              each speaker, idx in talk.speakers
+                                = speaker.name
+                                if idx < talk.speakers.length - 1
+                                  = ', '
+                            if progComView
+                              p.annote.
+                                !{talk.types.join(', ').replace(talk.type, '<u>'+talk.type+'</u>')}
+                              p.annote= talk.notes
+                    else
+                      .schedule-slot= slot
+          else if collection.isBreak
+            h4.schedule-all-tracks= collection.time
+            .schedule-slot= collection.description
+          else
+            h3.schedule-all-tracks= collection.time

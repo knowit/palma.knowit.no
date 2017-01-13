@@ -1,0 +1,39 @@
+- progComView = progComView || false
+section#talks.talks
+  .content
+    h1 Foredrag
+    each schedule in schedules
+      each collection in schedule.collections
+        if collection.entries
+          each entry in collection.entries
+            each slot in entry.slots
+              - var talk = talks[slot]
+              if talk && (!talk.pending || progComView)
+                .talks-entry(id=slot data-talk-id=slot)
+                  h4(lang=talk.languageCode)= " " + talk.title
+                  p.talk-description(lang=talk.languageCode)!= talk.description
+                  p.talk-meta
+                    | #{talk.type}, #{" "}
+                    a(href='#p_'+slot)  #{schedule.day.split(',').shift()} #{collection.time.split(' ').shift()}, track: #{entry.room}
+                  if talk.speakers
+                    .speakers
+                      each speaker in talk.speakers
+                        .speaker
+                            if speaker.pic
+                              img(class="bio-pic", src='pics/'+speaker.pic)
+                              .bio
+                                a(href='mailto:'+speaker.email)= speaker.name
+                                .bio-text= speaker.bio
+                            else
+                              a(href='mailto:'+speaker.email)= speaker.name
+                              .bio-text= speaker.bio
+
+                  if progComView
+                    p.talk-notes
+                      b Notes:
+                      | #{' ' + talk.notes}
+                    p.talk-types
+                      b Formats:
+                      | #{' ' + talk.types.join(', ')}
+
+
