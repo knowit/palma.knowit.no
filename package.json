@@ -1,7 +1,7 @@
 {
-  "name": "fredrikstad-ghpages",
+  "name": "berlin-ghpages",
   "version": "1.0.0",
-  "description": "Fagseminar Fredrikstad 2016",
+  "description": "Fagseminar Berlin 2017",
   "scripts": {
     "build": "jade --out . --obj src/viewmodel.json --pretty src/index.jade",
     "build:prog": "jade --out . --obj src/viewmodel.json --pretty src/prog.jade",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/knowit/fredrikstad.knowit.no.git"
+    "url": "git+https://github.com/knowit/berlin.knowit.no.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/knowit/fredrikstad.knowit.no/issues"
+    "url": "https://github.com/knowit/berlin.knowit.no/issues"
   },
-  "homepage": "http://fredrikstad.knowit.no/",
+  "homepage": "http://berlin.knowit.no/",
   "devDependencies": {
     "jade": "^1.11.0"
   }
