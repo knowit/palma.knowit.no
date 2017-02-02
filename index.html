@@ -26,8 +26,240 @@
       </div>
     </section>
     <!-- Comment out these to include the program...-->
-    <!--include ./includes/schedule.jade-->
-    <!--include ./includes/talks.jade-->
+    <section id="schedule" class="schedule">
+      <div class="content">
+        <h1>Faglig program</h1>
+        <div class="schedule-day">
+          <h2>Lørdag 1. april</h2>
+          <div class="schedule-collection with-1-entries">
+            <h4>10:00-13:00 Fag</h4>
+            <div class="schedule-entry">
+              <h5><b>Rom 1</b></h5>
+              <div data-talk-id="eksternt_foredrag" class="schedule-slot">
+                <p><a id="p_eksternt_foredrag" href="#eksternt_foredrag">Keynote</a></p>
+                <address>Ekstern foredragsholder
+                </address>
+              </div>
+              <div data-talk-id="maskinlaring" class="schedule-slot">
+                <p><a id="p_maskinlaring" href="#maskinlaring">Maskinlæring</a></p>
+                <address>Ole Grashei
+                </address>
+              </div>
+              <div data-talk-id="cloud_keynote" class="schedule-slot">
+                <p><a id="p_cloud_keynote" href="#cloud_keynote">Cloud ..</a></p>
+                <address>Navn
+                </address>
+              </div>
+            </div>
+          </div>
+          <div class="schedule-collection with-1-entries">
+            <h4>13:00-13:30 Quiz</h4>
+            <div class="schedule-entry">
+              <h5><b>Rom 1</b></h5>
+              <div data-talk-id="quiz" class="schedule-slot">
+                <p><a id="p_quiz" href="#quiz">Quiz</a></p>
+                <address>Navn
+                </address>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="schedule-day">
+          <h2>Søndag 2. april</h2>
+          <div class="schedule-collection with-1-entries">
+            <h4>10:00-10:30 God morgen 😴</h4>
+            <div class="schedule-entry">
+              <h5><b>Felles</b></h5>
+              <div data-talk-id="fagstrategi" class="schedule-slot">
+                <p><a id="p_fagstrategi" href="#fagstrategi">Intro</a></p>
+                <address>Jan Henrik Gundelsby, Haakon Spilde
+                </address>
+              </div>
+            </div>
+          </div>
+          <h4 class="schedule-all-tracks">10:30-10:45 Pause</h4>
+          <div class="schedule-slot"></div>
+          <div class="schedule-collection with-6-entries">
+            <h4>10:00-15:30 Fag (Workshops)</h4>
+            <div class="schedule-entry">
+              <h5><b>Rom 1</b></h5>
+              <div data-talk-id="ml_ws" class="schedule-slot">
+                <p><a id="p_ml_ws" href="#ml_ws">Maskinlæring ...</a></p>
+                <address>Ole Grashei
+                </address>
+              </div>
+            </div>
+            <div class="schedule-entry">
+              <h5><b>Rom 2</b></h5>
+              <div data-talk-id="blockchain_ws" class="schedule-slot">
+                <p><a id="p_blockchain_ws" href="#blockchain_ws">Praktisk blockchain ..</a></p>
+                <address>Sigurd Lund, S Skoglund
+                </address>
+              </div>
+            </div>
+            <div class="schedule-entry">
+              <h5><b>Rom 3</b></h5>
+              <div data-talk-id="frontend_ws" class="schedule-slot">
+                <p><a id="p_frontend_ws" href="#frontend_ws">React ...</a></p>
+                <address>Navn
+                </address>
+              </div>
+            </div>
+            <div class="schedule-entry">
+              <h5><b>Rom 4</b></h5>
+              <div data-talk-id="elm_ws" class="schedule-slot">
+                <p><a id="p_elm_ws" href="#elm_ws">Elm?</a></p>
+                <address>Navn
+                </address>
+              </div>
+            </div>
+            <div class="schedule-entry">
+              <h5><b>Rom 5</b></h5>
+              <div data-talk-id="cloud_ws" class="schedule-slot">
+                <p><a id="p_cloud_ws" href="#cloud_ws">Cloud ...</a></p>
+                <address>Navn
+                </address>
+              </div>
+            </div>
+            <div class="schedule-entry">
+              <h5><b>Rom 6</b></h5>
+              <div data-talk-id="lean_ws" class="schedule-slot">
+                <p><a id="p_lean_ws" href="#lean_ws">Lean...</a></p>
+                <address>Michael
+                </address>
+              </div>
+            </div>
+          </div>
+          <h4 class="schedule-all-tracks">15:00 ...</h4>
+          <div class="schedule-slot"></div>
+        </div>
+      </div>
+    </section>
+    <section id="talks" class="talks">
+      <div class="content">
+        <h1>Foredrag</h1>
+        <div id="eksternt_foredrag" data-talk-id="eksternt_foredrag" class="talks-entry">
+          <h4> Keynote</h4>
+          <p class="talk-description">beskrivelse</p>
+          <p class="talk-meta">Keynote (.. min),  <a href="#p_eksternt_foredrag"> Lørdag 1. april 10:00-13:00, track: Rom 1</a></p>
+          <div class="speakers">
+            <div class="speaker"><a href="mailto:epost">Ekstern foredragsholder</a>
+              <div class="bio-text">bio</div>
+            </div>
+          </div>
+        </div>
+        <div id="maskinlaring" data-talk-id="maskinlaring" class="talks-entry">
+          <h4> Maskinlæring</h4>
+          <p class="talk-description">beskrivelse</p>
+          <p class="talk-meta">Foredrag (60 min),  <a href="#p_maskinlaring"> Lørdag 1. april 10:00-13:00, track: Rom 1</a></p>
+          <div class="speakers">
+            <div class="speaker"><a href="mailto:olegra@knowit.no">Ole Grashei</a>
+              <div class="bio-text">bio</div>
+            </div>
+          </div>
+        </div>
+        <div id="cloud_keynote" data-talk-id="cloud_keynote" class="talks-entry">
+          <h4> Cloud ..</h4>
+          <p class="talk-description">beskrivelse</p>
+          <p class="talk-meta">Foredrag (.. min),  <a href="#p_cloud_keynote"> Lørdag 1. april 10:00-13:00, track: Rom 1</a></p>
+          <div class="speakers">
+            <div class="speaker"><a href="mailto:epost">Navn</a>
+              <div class="bio-text">bio</div>
+            </div>
+          </div>
+        </div>
+        <div id="quiz" data-talk-id="quiz" class="talks-entry">
+          <h4> Quiz</h4>
+          <p class="talk-description">Beskrivelse</p>
+          <p class="talk-meta">quiz,  <a href="#p_quiz"> Lørdag 1. april 13:00-13:30, track: Rom 1</a></p>
+          <div class="speakers">
+            <div class="speaker"><a href="mailto:epost">Navn</a>
+              <div class="bio-text">bio</div>
+            </div>
+          </div>
+        </div>
+        <div id="fagstrategi" data-talk-id="fagstrategi" class="talks-entry">
+          <h4> Intro</h4>
+          <p class="talk-description">Beskrivelse</p>
+          <p class="talk-meta">Intro (x min),  <a href="#p_fagstrategi"> Søndag 2. april 10:00-10:30, track: Felles</a></p>
+          <div class="speakers">
+            <div class="speaker"><img src="pics/jhg.jpg" class="bio-pic">
+              <div class="bio"><a href="mailto:jhg@knowit.no">Jan Henrik Gundelsby</a>
+                <div class="bio-text">Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Eika med arkitektur. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!</div>
+              </div>
+            </div>
+            <div class="speaker"><img src="pics/hfs.jpg" class="bio-pic">
+              <div class="bio"><a href="mailto:hfs@knowit.no">Haakon Spilde</a>
+                <div class="bio-text">Haakon er fagsjef i Knowit Objectnet. Haakon er lidenskapelig opptatt av prosess og metode, med særlig fokus på Agile teknikker. Hvordan lære av sine feil, hvordan endre sine metoder og prosesser til det bedre og hvordan få et team til å fungere optimalt er tema som opptar Haakon.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="ml_ws" data-talk-id="ml_ws" class="talks-entry">
+          <h4> Maskinlæring ...</h4>
+          <p class="talk-description">Beskrivelse</p>
+          <p class="talk-meta">Workshop (4.5 timer),  <a href="#p_ml_ws"> Søndag 2. april 10:00-15:30, track: Rom 1</a></p>
+          <div class="speakers">
+            <div class="speaker"><a href="mailto:olegra@knowit.no">Ole Grashei</a>
+              <div class="bio-text">bio</div>
+            </div>
+          </div>
+        </div>
+        <div id="blockchain_ws" data-talk-id="blockchain_ws" class="talks-entry">
+          <h4> Praktisk blockchain ..</h4>
+          <p class="talk-description">Beskrivelse</p>
+          <p class="talk-meta">Workshop (4.5 timer),  <a href="#p_blockchain_ws"> Søndag 2. april 10:00-15:30, track: Rom 2</a></p>
+          <div class="speakers">
+            <div class="speaker"><a href="mailto:epost">Sigurd Lund</a>
+              <div class="bio-text">bio</div>
+            </div>
+            <div class="speaker"><a href="mailto:">S Skoglund</a>
+              <div class="bio-text">Bio</div>
+            </div>
+          </div>
+        </div>
+        <div id="frontend_ws" data-talk-id="frontend_ws" class="talks-entry">
+          <h4> React ...</h4>
+          <p class="talk-description">Beskrivelse</p>
+          <p class="talk-meta">Workshop (4.5 timer),  <a href="#p_frontend_ws"> Søndag 2. april 10:00-15:30, track: Rom 3</a></p>
+          <div class="speakers">
+            <div class="speaker"><a href="mailto:epost">Navn</a>
+              <div class="bio-text">Bio</div>
+            </div>
+          </div>
+        </div>
+        <div id="elm_ws" data-talk-id="elm_ws" class="talks-entry">
+          <h4> Elm?</h4>
+          <p class="talk-description">beskrivelse</p>
+          <p class="talk-meta">Workshop (?),  <a href="#p_elm_ws"> Søndag 2. april 10:00-15:30, track: Rom 4</a></p>
+          <div class="speakers">
+            <div class="speaker"><a href="mailto:epost">Navn</a>
+              <div class="bio-text">bio</div>
+            </div>
+          </div>
+        </div>
+        <div id="cloud_ws" data-talk-id="cloud_ws" class="talks-entry">
+          <h4> Cloud ...</h4>
+          <p class="talk-description">beskrivelse</p>
+          <p class="talk-meta">Workshop (4.5 timer),  <a href="#p_cloud_ws"> Søndag 2. april 10:00-15:30, track: Rom 5</a></p>
+          <div class="speakers">
+            <div class="speaker"><a href="mailto:epost">Navn</a>
+              <div class="bio-text">bio</div>
+            </div>
+          </div>
+        </div>
+        <div id="lean_ws" data-talk-id="lean_ws" class="talks-entry">
+          <h4> Lean...</h4>
+          <p class="talk-description">beskrivelse</p>
+          <p class="talk-meta">Workshop (4.5 timer),  <a href="#p_lean_ws"> Søndag 2. april 10:00-15:30, track: Rom 6</a></p>
+          <div class="speakers">
+            <div class="speaker"><a href="mailto:email">Michael</a>
+              <div class="bio-text">Bio</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
     <section id="location" class="location">
       <div class="wrapper">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4026.7761289080663!2d13.340015104851592!3d52.502478744744764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a8505452cd134d%3A0x25283f2211ca3f42!2sCrowne+Plaza+Berlin+City+Centre!5e0!3m2!1sen!2sno!4v1484909369498" width="100%" height="100%" frameborder="0" style="border:0"></iframe>

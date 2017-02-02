@@ -80,7 +80,7 @@
                         {
               "room": "Rom 4",
               "slots": [
-                "API_ws"
+                "elm_ws"
               ]
             },
                         {
@@ -187,14 +187,14 @@
       "type": "Workshop (4.5 timer)",
       "description": "Beskrivelse"
     },
-    "API_ws": {
+    "elm_ws": {
       "pending": false,
       "speakers": [
         {
-          "name": "Jan Henrik Gundelsby",
-          "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Eika med arkitektur. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
-          "pic": "jhg.jpg",
-          "email": "jhg@knowit.no"
+          "name": "Runar Furunes",
+          "bio": "J",
+          "pic": "",
+          "email": ""
         }
       ],
       "title": "Tittel",
@@ -219,7 +219,7 @@
       "pending": false,
       "speakers": [
         {
-          "name": "Navn",
+          "name": "Michael",
           "bio": "Bio",
           "pic": "",
           "email": "email"
