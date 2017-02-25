@@ -13,25 +13,71 @@
               "day": "Lørdag 1. april",
               "collections": [
                 {
-                  "time": "10:00-13:00 Fag",
+                  "time": "10:00-11.00 Keynote",
                   "entries": [
                     {
                       "room": "Rom 1",
                       "slots": [
-                        "eksternt_foredrag",
-                        "maskinlaring",
-                        "cloud_keynote"
+                        "eksternt_foredrag"
                       ]
                     }
                     ]
                     },
                     {
-         			 "time": "13:00-13:30 Quiz",
+                  "time": "11:15-12:30 Korte foredrag (intro til workshops)",
+                  "entries": [
+                    {
+                      "room": "Rom 1",
+                      "slots": [
+                        "maskinlaring",
+                        "blockchain",
+                        "frontend",
+                        "cloud",
+                        "lean"
+                      ]
+                    }
+                    ]
+                    },
+                    {
+         			 "time": "12:30-13:00 Quiz",
 			          "entries": [
     	    		    {
 			              "room": "Rom 1",
         			      "slots": [
                 			"quiz"
+		            	  ]
+	    		        }
+    	    		  ]
+	    	    	},
+	    	    	{
+         			 "time": "13:00-14:00 Lunsj",
+			          "entries": [
+    	    		    {
+			              "room": "Rom 1",
+        			      "slots": [
+                			"Lunsj"
+		            	  ]
+	    		        }
+    	    		  ]
+	    	    	},
+	    	    	{
+         			 "time": "14:00- Ikke-faglige aktiviteter",
+			          "entries": [
+    	    		    {
+			              "room": "Utendørs",
+        			      "slots": [
+                			"Diverse aktiviteter"
+		            	  ]
+	    		        }
+    	    		  ]
+	    	    	},
+	    	    	{
+         			 "time": "19:30 Middag",
+			          "entries": [
+    	    		    {
+			              "room": "",
+        			      "slots": [
+                			""
 		            	  ]
 	    		        }
     	    		  ]
@@ -42,7 +88,7 @@
       "day": "Søndag 2. april",
       "collections": [
         {
-          "time": "10:00-10:30 God morgen 😴",
+          "time": "10:00-10:10 God morgen 😴",
           "entries": [
             {
               "room": "Felles",
@@ -53,11 +99,11 @@
           ]
         },
         {
-          "time": "10:30-10:45 Pause",
+          "time": "10:10-10:15 Pause",
           "isBreak": true
         },
         {
-          "time": "10:00-15:30 Fag (Workshops)",
+          "time": "10:15-15:00 Fag (Workshops)",
           "entries": [
             {
               "room": "Rom 1",
@@ -76,8 +122,13 @@
               "slots": [
                 "frontend_ws"
               ]
-            },
-                        {
+            }
+          ]
+        },
+        {
+          "time": "10:15-15:00 Fag (Workshops)",
+          "entries": [
+              {
               "room": "Rom 4",
               "slots": [
                 "elm_ws"
@@ -97,10 +148,17 @@
             }
           ]
         },
-        {
-          "time": "15:00 ...",
-          "isBreak": true
-        }
+	    {
+		 "time": "15:00 Pakking, avreise til fly (stopp for lunsj på veien)",
+          "entries": [
+  		    {
+             "room": "",
+		      "slots": [
+      			""
+          	  ]
+	        }
+  		  ]
+   		}
       ]
     }
   ],
@@ -129,7 +187,7 @@
       "pending": false,
       "speakers": [
         {
-          "name": "Navn",
+          "name": "Joachim Lehn",
           "bio": "bio",
           "pic": "",
           "email": "epost"
@@ -157,21 +215,15 @@
       "pending": false,
       "speakers": [
         {
-          "name": "Sigurd Lund",
-          "bio": "bio",
-          "pic": "",
+          "name": "Simen Skoglund og Sigurd Lund",
+          "bio": "Den beryktede duoen har stadig nye idéer om hvordan blockchain skal revolusjonere verden, men så langt så har de lite å vise til av applikasjoner som er tilgjengelig for de store massene. Nå har de derimot noe stort på gang, så sørg for å få med deg workshopen om blockchain!",
+          "pic": "pics/sigsko.png",
           "email": "epost"
-        },
-        {
-          "name": "S Skoglund",
-          "bio": "Bio",
-          "pic": "",
-          "email": ""
         }
       ],
-      "title": "Praktisk blockchain ..",
+      "title": "Kontopenger på Blockchain?!",
       "type": "Workshop (4.5 timer)",
-      "description": "Beskrivelse"
+      "description": "De har gjort revolusjonerende forskning på blockchain, og har nå funnet ut av hvordan Objectnets konto-ordning kan representeres på denne teknologien. Ved hjelp av blokkjeden Ethereum og rammeverket Truffle skal de hjelpe deg å få til dette på noen timer."
     },
     "frontend_ws": {
       "pending": false,
@@ -183,7 +235,7 @@
           "email": "epost"
         }
       ],
-      "title": "React ...",
+      "title": "React ",
       "type": "Workshop (4.5 timer)",
       "description": "Beskrivelse"
     },
@@ -225,7 +277,7 @@
           "email": "email"
         }
       ],
-      "title": "Lean...",
+      "title": "Lean",
       "type": "Workshop (4.5 timer)",
       "description": "beskrivelse"
     },
@@ -233,14 +285,14 @@
       "pending": false,
       "speakers": [
         {
-          "name": "Navn",
+          "name": "Runar Furunes",
           "bio": "bio",
           "pic": "",
           "email": "epost"
         }
       ],
-      "title": "Elm?",
-      "type": "Workshop (?)",
+      "title": "Elm",
+      "type": "Workshop",
       "description": "beskrivelse"
     },
     "maskinlaring": {
@@ -254,8 +306,22 @@
         }
       ],
       "title": "Maskinlæring",
-      "type": "Foredrag (60 min)",
+      "type": "Foredrag (15 min)",
       "description": "beskrivelse"
+    },
+    "blockchain": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Simen Skoglund og Sigurd Lund",
+          "bio": "Den beryktede duoen har stadig nye idéer om hvordan blockchain skal revolusjonere verden, men så langt så har de lite å vise til av applikasjoner som er tilgjengelig for de store massene. Nå har de derimot noe stort på gang, så sørg for å få med deg workshopen om blockchain!",
+          "pic": "",
+          "email": ""
+        }
+      ],
+      "title": "Blockchain",
+      "type": "Foredrag (15 min)",
+      "description": "Introduksjon til blockchainworkshop om kontopenger"
     },
     "eksternt_foredrag": {
       "pending": false,
@@ -268,11 +334,38 @@
         }
       ],
       "title": "Keynote",
-      "type": "Keynote (.. min)",
+      "type": "Keynote (60 min)",
       "description": "beskrivelse"
     },
-    
-    "cloud_keynote": {
+    "frontend": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Runar Furunes",
+          "bio": "bio",
+          "pic": "",
+          "email": "epost"
+        }
+      ],
+      "title": "Frontend/web (Elm og React)",
+      "type": "Foredrag (15 min)",
+      "description": "beskrivelse"
+    },
+    "lean": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Michael Johanson",
+          "bio": "bio",
+          "pic": "",
+          "email": "epost"
+        }
+      ],
+      "title": "Lean startup",
+      "type": "Foredrag (15 min)",
+      "description": "beskrivelse"
+    },
+    "cloud": {
       "pending": false,
       "speakers": [
         {
@@ -283,7 +376,7 @@
         }
       ],
       "title": "Cloud ..",
-      "type": "Foredrag (.. min)",
+      "type": "Foredrag (15 min)",
       "description": "beskrivelse"
     }
   }
