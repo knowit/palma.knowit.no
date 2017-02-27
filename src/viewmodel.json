@@ -263,7 +263,7 @@
           "email": "epost"
         }
       ],
-      "title": "Cloud ...",
+      "title": "Servlerless Tank Wars",
       "type": "Workshop (4.5 timer)",
       "description": "beskrivelse"
     },
@@ -327,15 +327,15 @@
       "pending": false,
       "speakers": [
         {
-          "name": "Ekstern foredragsholder",
-          "bio": "bio",
-          "pic": "",
-          "email": "epost"
+          "name": "Christian Mikaelsen",
+          "bio": "Christian Mikalsen er teknologisjef og en av gründerne bak suksessbedriften kolonial.no. Christian har informatikk-bakgrunn fra Universitet i Oslo, og har mange års erfaring fra kryssfunksjonelle IT-prosjekter.",
+          "pic": "christianm.jpg",
+          "email": "christian@kolonial.no"
         }
       ],
-      "title": "Keynote",
+      "title": "Tverrfaglig teamarbeid i kolonial.no",
       "type": "Keynote (60 min)",
-      "description": "beskrivelse"
+      "description": "Kolonial.no er Norges største matbutikk på nett, og Nordens raskest voksende dagligvareselskap på nett. Christian Mikalsen er teknologisjef og en av gründerne bak suksessbedriften. Den tverrfaglige hverdagen og samhandlingen mellom det digitale og det fysiske er en av hovedutfordringene i Christians hverdag, og en av styrkene til gründerteamet."
     },
     "frontend": {
       "pending": false,
