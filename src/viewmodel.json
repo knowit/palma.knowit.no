@@ -205,11 +205,29 @@
           "bio": "bio",
           "pic": "",
           "email": "olegra@knowit.no"
+        },
+        {
+          "name": "Johan Reitan",
+          "bio": "bio",
+          "pic": "",
+          "email": "johan.reitan@knowit.no"
+        },
+        {
+          "name": "Patrik Bakken",
+          "bio": "bio",
+          "pic": "",
+          "email": "patrik.bakken@knowit.no"
+        },
+        {
+          "name": "Stian Lågstad",
+          "bio": "bio",
+          "pic": "",
+          "email": "stian.lagstad@knowit.no"
         }
       ],
-      "title": "Maskinlæring ...",
+      "title": "Bli en vinkjenner ved hjelp av maskinlæring. Helt utrolig! Klikk her for å se hvordan",
       "type": "Workshop (4.5 timer)",
-      "description": "Beskrivelse"
+      "description": "I denne workshoppen skal vi ta en litt annerledes tilnærming til vinsmaking: Klarer vi å forutse vin-ratings ved hjelp av maskinlæring? Vi skal innom kjente algoritmer slik som nearest neighbour, random forests og support vector machines - alt i vår jakt etter å bli bedre vinkjennere. Dette blir en god blanding av teori og praksis: Deltagerne jobber sammen i lag for å løse oppgaver med python, scikit og andre godsaker, mens Ole, Patrik, Johan og Stian sørger for at dere får teorien som trengs underveis. Vel møtt!"
     },
     "blockchain_ws": {
       "pending": false,
