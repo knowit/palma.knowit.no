@@ -187,10 +187,10 @@
       "pending": false,
       "speakers": [
         {
-          "name": "Joachim Lehn",
-          "bio": "bio",
-          "pic": "",
-          "email": "epost"
+          "name": "Joakim Lehn",
+          "bio": "Joakim Lehn er den offisielle maskoten fra trønderlag for knowit. Villtrønderen har lovet å ikke bare ha spørsmål om RBK, samt prøve å få med noen temaer man har hørt om sør for Dovre.",
+          "pic": "pics/joakim.lehn.jpg",
+          "email": "joakim.lehn@knowit.no"
         }
       ],
       "title": "Quiz",
@@ -307,15 +307,15 @@
       "pending": false,
       "speakers": [
         {
-          "name": "Michael",
-          "bio": "Bio",
-          "pic": "",
-          "email": "email"
+          "name": "Michael Johansen",
+          "bio": "A software consultant during the day and a startup founder during the night. At NTNU I studied entrepreneurship, computer science and psychology. As part of my startup venture I've gotten first-hand experience with the startup scene in both Boston and in Silicon Valley. I care more than most people about startups, and it's a topic on which I'd like to share my insights.",
+          "pic": "mjo.jpg",
+          "email": "mjo@knowit.no"
         }
       ],
-      "title": "Lean",
+      "title": "Startups For Grownups",
       "type": "Workshop (4.5 timer)",
-      "description": "beskrivelse"
+      "description": "We all have a business idea. Few people try to build a startup around it and fewer yet succeed. Successful startups like Tesla, Uber and AirBnB are the fabled creatures of the 3rd millennium. But how exactly does an idea become a business? And how can you be sure that anyone wants what you’re selling? We’ll explore a methodical approach to starting up, and discover how this is relevant to our business in Knowit Objectnet."
     },
     "elm_ws": {
       "pending": false,
@@ -391,15 +391,15 @@
       "pending": false,
       "speakers": [
         {
-          "name": "Michael Johanson",
-          "bio": "bio",
-          "pic": "",
-          "email": "epost"
+          "name": "Michael Johansen",
+          "bio": "A software consultant during the day and a startup founder during the night. At NTNU I studied entrepreneurship, computer science and psychology. As part of my startup venture I've gotten first-hand experience with the startup scene in both Boston and in Silicon Valley. I care more than most people about startups, and it's a topic on which I'd like to share my insights.",
+          "pic": "mjo.jpg",
+          "email": "mjo@knowit.no"
         }
       ],
       "title": "Lean startup",
       "type": "Foredrag (15 min)",
-      "description": "beskrivelse"
+      "description": "We all have a business idea. But how exactly does an idea become a business? And how can you be sure that anyone wants what you’re selling? Discover how this is relevant to Knowit Objectnet."
     },
     "cloud": {
       "pending": false,
