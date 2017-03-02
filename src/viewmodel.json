@@ -299,9 +299,9 @@
           "email": "epost"
         }
       ],
-      "title": "Servlerless Tank Wars",
+      "title": "Serverless Tank Wars Battle",
       "type": "Workshop (4.5 timer)",
-      "description": "beskrivelse"
+      "description": "En workshop hvor du vil lære om serverless infrastruktur i skyen og programmering av virtuelle tanks. Vi vil bruke skytjenester tilbudt av Amazon Web Services, som AWS Lambda og AWS API Gateway som vil hoste et enkelt API for å slåss med tanks. APIet vil implementere et grensesnitt definert av et spill, Tank Wars. I dette APIet vil du implementere en enkel kunstig intelligens som, i en uhøytidelig konkurranse, vil slåss mot andre implementasjoner mot slutten av workshopen."
     },
     "lean_ws": {
       "pending": false,
