@@ -51,36 +51,15 @@
 	    	    	},
 	    	    	{
          			 "time": "13:00-14:00 Lunsj",
-			          "entries": [
-    	    		    {
-			              "room": "Rom 1",
-        			      "slots": [
-                			"Lunsj"
-		            	  ]
-	    		        }
-    	    		  ]
+               "isBreak": true
 	    	    	},
 	    	    	{
-         			 "time": "14:00- Ikke-faglige aktiviteter",
-			          "entries": [
-    	    		    {
-			              "room": "Utendørs",
-        			      "slots": [
-                			"Diverse aktiviteter"
-		            	  ]
-	    		        }
-    	    		  ]
+         			 "time": "14:00-19:30 Ikke-faglige aktiviteter",
+               "isBreak": true
 	    	    	},
 	    	    	{
          			 "time": "19:30 Middag",
-			          "entries": [
-    	    		    {
-			              "room": "",
-        			      "slots": [
-                			""
-		            	  ]
-	    		        }
-    	    		  ]
+               "isBreak": true
 	    	    	}
                   ]
                 },
@@ -168,7 +147,7 @@
       "speakers": [
         {
           "name": "Jan Henrik Gundelsby",
-          "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Eika med arkitektur. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
+          "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Oslo kommune med arkitektur og prosess. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
           "pic": "jhg.jpg",
           "email": "jhg@knowit.no"
         },
@@ -179,9 +158,9 @@
           "email": "hfs@knowit.no"
         }
       ],
-      "title": "Intro",
-      "type": "Intro (x min)",
-      "description": "Beskrivelse"
+      "title": "God morgen!",
+      "type": "Intro (15 min)",
+      "description": "God morgen alle sammen! Praktisk informasjon."
     },
     "quiz": {
       "pending": false,
@@ -189,39 +168,39 @@
         {
           "name": "Joakim Lehn",
           "bio": "Joakim Lehn er den offisielle maskoten fra trønderlag for knowit. Villtrønderen har lovet å ikke bare ha spørsmål om RBK, samt prøve å få med noen temaer man har hørt om sør for Dovre.",
-          "pic": "pics/joakim.lehn.jpg",
+          "pic": "joakim.lehn.jpg",
           "email": "joakim.lehn@knowit.no"
         }
       ],
       "title": "Quiz",
       "type": "quiz",
-      "description": "Beskrivelse"
+      "description": "Svar på Kahoot-quizen så godt du kan for å komme på riktig restaurant på kvelden..."
     },
     "ml_ws": {
       "pending": false,
       "speakers": [
         {
           "name": "Ole Grashei",
-          "bio": "bio",
-          "pic": "",
+          "bio": "Ole gikk ut fra NTNU i 2013 med en sivilingeniørgrad i datateknikk. Fra forvaltningsprosjekter har han fått innsikt i komplekse foretningsapplikasjoner og prosjektprosessen. Gjennom sine prosjekt-engasjementer i NSB har Ole vært involvert både i kjerne-billettsystem (Java-utvikling) og salgskanalen for konduktører (Android-utvikling for Mobile Terminaler / smarttelefon). Ole faglig interessert og er jevnlig å se på meetups om utvikling, arkitektur og maskinlæring.",
+          "pic": "olegra_knowit.no.jpg",
           "email": "olegra@knowit.no"
         },
         {
           "name": "Johan Reitan",
-          "bio": "bio",
-          "pic": "",
+          "bio": "Johan er en systemutvikler med master i Datateknikk ved NTNU der han spesialiserte seg i kunstig intelligens. Hovedinteressen har vært maskinlæring, gjerne sammen med språkteknologi, som han har jobbet mye med. Linux og åpen kildekode er en lidenskap, og mye av fritiden hans går med på eksperimentering med og bidrag til åpne prosjekter. Han har mye erfaring med Android, Java og Kotlin, inkludert Android TV og Android Things, samt Python og diverse Python-rammeverk, men har også jobbet med .NET.",
+          "pic": "Johan.Reitan.300x375.jpg",
           "email": "johan.reitan@knowit.no"
         },
         {
           "name": "Patrik Bakken",
-          "bio": "bio",
-          "pic": "",
+          "bio": "Patrik startet i Knowit Objecnet i august 2016 etter 3 år i USA på Illinois State University, og 3 år på NTNU i Trondheim hvor mastergraden ble fullført. Kjernekompetansen ligger i back-end utvikling i språk som bl.a. Java og C++. Patrik er veldig interessert i å lære og ser alltid etter nye utfordringer.",
+          "pic": "Patrik.Fridberg.Bakken.300x375.jpg",
           "email": "patrik.bakken@knowit.no"
         },
         {
           "name": "Stian Lågstad",
-          "bio": "bio",
-          "pic": "",
+          "bio": "Stian ble uteksaminert fra Universitetet i Oslo i juni 2016 med A på masteroppgaven i bioinformatikk. Gjennom studiene har han fått erfaring med Python, R, Java, LISP, og gjennom deltidsjobben som konsulent for Realfagsbiblioteket jobbet han mye med Javascript. Hos Knowit Objectnet gikk han inn i LISA-prosjektet hos NSB, der han jobber med Java og rammeverk som Spring og Feign.",
+          "pic": "stian.lagstad.jpg",
           "email": "stian.lagstad@knowit.no"
         }
       ],
@@ -235,7 +214,7 @@
         {
           "name": "Simen Skoglund og Sigurd Lund",
           "bio": "Den beryktede duoen har stadig nye idéer om hvordan blockchain skal revolusjonere verden, men så langt så har de lite å vise til av applikasjoner som er tilgjengelig for de store massene. Nå har de derimot noe stort på gang, så sørg for å få med deg workshopen om blockchain!",
-          "pic": "pics/sigsko.png",
+          "pic": "sigsko.png",
           "email": "epost"
         }
       ],
@@ -248,30 +227,30 @@
       "speakers": [
         {
           "name": "Christian Peter",
-          "bio": "Bio",
+          "bio": "Frontend utvikling er det Christian brenner mest for. Å kombinere tanker fra både designere og utviklere er det som skal til for å skape et frontend der brukeren trives. Denne interessen er noe Christian fikk mot slutten av studiene. Han syntes det også er spennende å utvikle backend systemer i kombinasjon med frontend. Ved å utvikle både backend og frontend får man en helhets forståelse der sluttresultatet blir bedre. Christian liker selv å kalle seg en fullstack-utvikler. I tillegg til utvikling, finner Christian det svært interessant å interaktere med kunden slik at man kommer frem til den beste løsningen.",
           "pic": "cp.jpg",
           "email": "christian.peter@knowit.no"
         },
         {
           "name": "Kennet Vuong",
-          "bio": "Bio",
+          "bio": "Kennet er en ivrig utvikler som stadig er på jakt etter nye utfordringer og teknologier. Han ser på seg selv som en full-stack utvikler som trives godt både på fremsia med web- og mobilutvikling og på baksia med database- og serverapplikasjoner. Gjennom tidligere erfaringer har Kennet jobbet som DevOps-utvikler og objektorientert systemutvikling innenfor JVM. I tillegg har han vært scrum master og team- og techlead innenfor frontend. Kennet liker å jobbe i team i tett samarbeid med kunder og designere.",
           "pic": "kennet.vuong.jpg",
           "email": "kennet.vuong@knowit.no"
         },
         {
           "name": "Alexander Bjerkan",
-          "bio": "Bio",
+          "bio": "Alexander har god erfaring som systemutvikler i smidige team og har bygget opp betydelig kompetanse innenfor et bredt spekter av teknologier og ansvarsområder. Han har jobbet med alt fra små hobbyprosjekter til store samfunnskritiske systemer og han brenner for håndverket og kvaliteten i IT-faget. Som person søker Alexander stadig å utvikle sin tekniske horisont med nye teknologier og kunnskap.",
           "pic": "alb_knowit.no.jpg",
           "email": "alb@knowit.no"
         },
         {
           "name": "Johannes Akse",
-          "bio": "Bio",
+          "bio": "Johannes har en mastergrad i 'Informatikk: Design, bruk og interaksjon' men foretrekker å programmere og da helst front-end. Han har to bachelorgrader: den første i 'Kultur og kommunikasjon' fra Universitetet i Oslo og den andre i 'Digital medieproduksjon' fra Høgskolen i Østfold. Dette har gitt et godt grunnlag for å forstå informasjonsflyt, både mellommenneskelig men også mellom menneske og maskin.",
           "pic": "johannes.akse.jpg",
           "email": "johannes.akse@knowit.no"
         }
       ],
-      "title": "React ",
+      "title": "React",
       "type": "Workshop (4.5 timer)",
       "description": "Er du lei av å høre om hvor fantastisk revolusjonerende React er uten å vite hva det egentlig dreier seg om? Eller vil du kanskje bare ha en enkel innføring i hvordan man kan utvikle en web-applikasjon? I denne workshopen vil vi oppfylle begge disse innfallsvinklene. Vi går gjennom de viktigste React konseptene ved å starte helt fra begynnelsen. Sammen vil vi bygge en liten applikasjon som illustrerer dataflyten i React, og hvordan en komponentmodell lar oss presentere data på en lett forståelig og effektiv måte."
     },
@@ -280,23 +259,23 @@
       "speakers": [
         {
           "name": "Runar Furunes",
-          "bio": "J",
+          "bio": "Runar hadde sommerjobb i Knowit i 2011. Etter endt utdannelse jobbet han et halvt år i statlig sektor, før han begynte i fast stilling hos Knowit desember 2013. Han har erfaring med ulike programmeringsspråk og teknologier, og er spesielt opptatt av funksjonell programmering.",
           "pic": "ruf.jpg",
-          "email": ""
+          "email": "ruf@knowit.no"
         }
       ],
-      "title": "Tittel",
+      "title": "Praktisk introduksjon til Elm",
       "type": "Workshop (4.5 timer)",
-      "description": "Beskrivelse"
+      "description": ""
     },
     "cloud_ws": {
       "pending": false,
       "speakers": [
         {
           "name": "Kenneth Stigen",
-          "bio": "bio",
-          "pic": "",
-          "email": "epost"
+          "bio": "Kenneth har jobbet i som konsulent siden 2004, og i Knowit Objectnet siden januar 2010. Kenneth har sin kjernekompetanse innenfor arkitektur og utvikling av store løsninger på java-plattformen.",
+          "pic": "kes_knowit.no.jpg",
+          "email": "kes@knowit.no"
         }
       ],
       "title": "Serverless Tank Wars Battle",
@@ -317,33 +296,18 @@
       "type": "Workshop (4.5 timer)",
       "description": "We all have a business idea. Few people try to build a startup around it and fewer yet succeed. Successful startups like Tesla, Uber and AirBnB are the fabled creatures of the 3rd millennium. But how exactly does an idea become a business? And how can you be sure that anyone wants what you’re selling? We’ll explore a methodical approach to starting up, and discover how this is relevant to our business in Knowit Objectnet."
     },
-    "elm_ws": {
-      "pending": false,
-      "speakers": [
-        {
-          "name": "Runar Furunes",
-          "bio": "bio",
-          "pic": "",
-          "email": "epost"
-        }
-      ],
-      "title": "Elm",
-      "type": "Workshop",
-      "description": "beskrivelse"
-    },
     "maskinlaring": {
       "pending": false,
       "speakers": [
         {
-          "name": "Ole Grashei",
-          "bio": "bio",
-          "pic": "",
-          "email": "olegra@knowit.no"
+          "name": "Simen Skoglund og Sigurd Lund",
+          "bio": "Den beryktede duoen har stadig nye idéer om hvordan blockchain skal revolusjonere verden, men så langt så har de lite å vise til av applikasjoner som er tilgjengelig for de store massene. Nå har de derimot noe stort på gang, så sørg for å få med deg workshopen om blockchain!",
+          "pic": "sigsko.png",
+          "email": "epost"
         }
       ],
-      "title": "Maskinlæring",
-      "type": "Foredrag (15 min)",
-      "description": "beskrivelse"
+      "title": "Intro til workshop om maskinlæring",
+      "type": "Foredrag (15 min)"
     },
     "blockchain": {
       "pending": false,
@@ -351,13 +315,12 @@
         {
           "name": "Simen Skoglund og Sigurd Lund",
           "bio": "Den beryktede duoen har stadig nye idéer om hvordan blockchain skal revolusjonere verden, men så langt så har de lite å vise til av applikasjoner som er tilgjengelig for de store massene. Nå har de derimot noe stort på gang, så sørg for å få med deg workshopen om blockchain!",
-          "pic": "",
-          "email": ""
+          "pic": "sigsko.png",
+          "email": "epost"
         }
-      ],
-      "title": "Blockchain",
-      "type": "Foredrag (15 min)",
-      "description": "Introduksjon til blockchainworkshop om kontopenger"
+      ],      
+      "title": "Intro til workshop om blockchain",
+      "type": "Foredrag (15 min)"
     },
     "eksternt_foredrag": {
       "pending": false,
@@ -378,18 +341,18 @@
       "speakers": [
         {
           "name": "Christoffer Eliesen",
-          "bio": "bio",
+          "bio": "Christoffer er en engasjert utvikler som brenner for IT. Han er nysgjerrig og glad i å lære nye ting. Han stiller høye krav til seg selv og det han leverer, men er pragmatisk når det trengs. Hans interesse for IT spenner seg hele veien fra operativsystem til brukergrensesnitt, og han er derfor en naturlig fullstack og 'devops' utvikler. I disse tider er det frontend som er i vinden og Christoffers hjerte følger etter. React og Node er spennende teknologier som passer han midt i blinken. Både 'gammel' jQuery og ny React er teknologier som er givende å jobbe med for Christoffer. Flere års erfaring har gjort han trygg i rollen som konsulent. Han er beskjeden, samtidig som han er en dyp tenker med rolige øyne og et brennende hjerte.",
           "pic": "christoffer.eliesen.JPG",
-          "email": "epost"
+          "email": "christoffer.eliesen@knowit.no"
         },
         {
           "name": "Runar Furunes",
-          "bio": "bio",
+          "bio": "Runar hadde sommerjobb i Knowit i 2011. Etter endt utdannelse jobbet han et halvt år i statlig sektor, før han begynte i fast stilling hos Knowit desember 2013. Han har erfaring med ulike programmeringsspråk og teknologier, og er spesielt opptatt av funksjonell programmering.",
           "pic": "ruf.jpg",
-          "email": "epost"
+          "email": "ruf@knowit.no"
         }
       ],
-      "title": "Frontend/web (Elm og React)",
+      "title": "Intro til workshops frontend/web (Elm og React)",
       "type": "Foredrag (15 min)",
       "description": "Har du lyst til å bli frontstykkeutvikler på verdensveven? Vet du hva det egentlig innebærer? Det vet vi, og vi gir et innblikk i det komplekse beistet som venter i edderkoppnettet. I tillegg vil Runar kort fortelle om hvordan det behagelige livet er i Elm-land for tiden."
     },
@@ -403,7 +366,7 @@
           "email": "mjo@knowit.no"
         }
       ],
-      "title": "Lean startup",
+      "title": "Intro til workshop om Lean startup",
       "type": "Foredrag (15 min)",
       "description": "We all have a business idea. But how exactly does an idea become a business? And how can you be sure that anyone wants what you’re selling? Discover how this is relevant to Knowit Objectnet."
     },
@@ -412,14 +375,14 @@
       "speakers": [
         {
           "name": "Kenneth Stigen",
-          "bio": "bio",
-          "pic": "",
-          "email": "epost"
+          "bio": "Kenneth har jobbet i som konsulent siden 2004, og i Knowit Objectnet siden januar 2010. Kenneth har sin kjernekompetanse innenfor arkitektur og utvikling av store løsninger på java-plattformen.",
+          "pic": "kes_knowit.no.jpg",
+          "email": "kes@knowit.no"
         }
       ],
-      "title": "Cloud ..",
+      "title": "Intro til serverless / cloud-workshop",
       "type": "Foredrag (15 min)",
-      "description": "beskrivelse"
+      "description": "En workshop hvor du vil lære om serverless infrastruktur i skyen og programmering av virtuelle tanks. Vi vil bruke skytjenester tilbudt av Amazon Web Services, som AWS Lambda og AWS API Gateway som vil hoste et enkelt API for å slåss med tanks. APIet vil implementere et grensesnitt definert av et spill, Tank Wars. I dette APIet vil du implementere en enkel kunstig intelligens som, i en uhøytidelig konkurranse, vil slåss mot andre implementasjoner mot slutten av workshopen."
     }
   }
 }
