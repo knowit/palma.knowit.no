@@ -249,25 +249,25 @@
         {
           "name": "Christian Peter",
           "bio": "Bio",
-          "pic": "pics/cp.jpg",
+          "pic": "cp.jpg",
           "email": "christian.peter@knowit.no"
         },
         {
           "name": "Kennet Vuong",
           "bio": "Bio",
-          "pic": "pics/kennet.vuong.jpg",
+          "pic": "kennet.vuong.jpg",
           "email": "kennet.vuong@knowit.no"
         },
         {
           "name": "Alexander Bjerkan",
           "bio": "Bio",
-          "pic": "pics/alb_knowit.no.jpg",
+          "pic": "alb_knowit.no.jpg",
           "email": "alb@knowit.no"
         },
         {
           "name": "Johannes Akse",
           "bio": "Bio",
-          "pic": "pics/johannes.akse.jpg",
+          "pic": "johannes.akse.jpg",
           "email": "johannes.akse@knowit.no"
         }
       ],
@@ -281,7 +281,7 @@
         {
           "name": "Runar Furunes",
           "bio": "J",
-          "pic": "",
+          "pic": "ruf.jpg",
           "email": ""
         }
       ],
@@ -379,13 +379,13 @@
         {
           "name": "Christoffer Eliesen",
           "bio": "bio",
-          "pic": "pics/christoffer.eliesen.JPG",
+          "pic": "christoffer.eliesen.JPG",
           "email": "epost"
         },
         {
           "name": "Runar Furunes",
           "bio": "bio",
-          "pic": "pics/ruf.jpg",
+          "pic": "ruf.jpg",
           "email": "epost"
         }
       ],
