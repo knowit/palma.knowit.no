@@ -276,6 +276,18 @@
           "bio": "Kenneth har jobbet i som konsulent siden 2004, og i Knowit Objectnet siden januar 2010. Kenneth har sin kjernekompetanse innenfor arkitektur og utvikling av store løsninger på java-plattformen.",
           "pic": "kes_knowit.no.jpg",
           "email": "kes@knowit.no"
+        },
+        {
+          "name": "Anders Dahlen",
+          "bio": "Anders har en mastergrad i Kybernetikk og robotikk ved NTNU fra våren 2015, med spesialisering i 'Navigasjon og fartøystyring'. Denne graden omhandler hovedsakelig design og implementasjon av styresystemer for skip, droner og roboter; hvor gode programmeringsferdigheter sammen med sterk matematisk forståelse står helt sentralt. Spesielt har Anders god kunnskap i språkene C, C++, Go og Java, og verktøyet Matlab.",
+          "pic": "",
+          "email": "anders.dahlen@knowit.no"
+        },
+        {
+          "name": "Henrik Nårstad",
+          "bio": "enrik har en bachelorgrad og leverte sin masteroppgave på Universitetet i Oslo ved Institutt for Informatikk julen 2015. Har han opparbeidet seg erfaring med programmeringsspråk som Java, Python, C/C++ og Javascript gjennom faglig arbeid og egne prosjekter. Han er interessert i operativsystemer, systemutvikling, nye teknologier, og har i tillegg deltatt i uhøytidelige konkurranser med fokus på programvaresikkerhet. Som person elsker Henrik problemløsning og å lære nye ting.",
+          "pic": "Henrik_Na_rstad.png",
+          "email": "henrik.narstad@knowit.no"
         }
       ],
       "title": "Serverless Tank Wars Battle",
