@@ -316,6 +316,24 @@
           "bio": "Ole gikk ut fra NTNU i 2013 med en sivilingeniørgrad i datateknikk. Fra forvaltningsprosjekter har han fått innsikt i komplekse foretningsapplikasjoner og prosjektprosessen. Gjennom sine prosjekt-engasjementer i NSB har Ole vært involvert både i kjerne-billettsystem (Java-utvikling) og salgskanalen for konduktører (Android-utvikling for Mobile Terminaler / smarttelefon). Ole faglig interessert og er jevnlig å se på meetups om utvikling, arkitektur og maskinlæring.",
           "pic": "olegra_knowit.no.jpg",
           "email": "olegra@knowit.no"
+        },
+        {
+          "name": "Johan Reitan",
+          "bio": "Johan er en systemutvikler med master i Datateknikk ved NTNU der han spesialiserte seg i kunstig intelligens. Hovedinteressen har vært maskinlæring, gjerne sammen med språkteknologi, som han har jobbet mye med. Linux og åpen kildekode er en lidenskap, og mye av fritiden hans går med på eksperimentering med og bidrag til åpne prosjekter. Han har mye erfaring med Android, Java og Kotlin, inkludert Android TV og Android Things, samt Python og diverse Python-rammeverk, men har også jobbet med .NET.",
+          "pic": "Johan.Reitan.300x375.jpg",
+          "email": "johan.reitan@knowit.no"
+        },
+        {
+          "name": "Patrik Bakken",
+          "bio": "Patrik startet i Knowit Objecnet i august 2016 etter 3 år i USA på Illinois State University, og 3 år på NTNU i Trondheim hvor mastergraden ble fullført. Kjernekompetansen ligger i back-end utvikling i språk som bl.a. Java og C++. Patrik er veldig interessert i å lære og ser alltid etter nye utfordringer.",
+          "pic": "Patrik.Fridberg.Bakken.300x375.jpg",
+          "email": "patrik.bakken@knowit.no"
+        },
+        {
+          "name": "Stian Lågstad",
+          "bio": "Stian ble uteksaminert fra Universitetet i Oslo i juni 2016 med A på masteroppgaven i bioinformatikk. Gjennom studiene har han fått erfaring med Python, R, Java, LISP, og gjennom deltidsjobben som konsulent for Realfagsbiblioteket jobbet han mye med Javascript. Hos Knowit Objectnet gikk han inn i LISA-prosjektet hos NSB, der han jobber med Java og rammeverk som Spring og Feign.",
+          "pic": "stian.lagstad.jpg",
+          "email": "stian.lagstad@knowit.no"
         }
       ],
       "title": "Intro til workshop om maskinlæring",
