@@ -300,10 +300,10 @@
       "pending": false,
       "speakers": [
         {
-          "name": "Simen Skoglund og Sigurd Lund",
-          "bio": "Den beryktede duoen har stadig nye idéer om hvordan blockchain skal revolusjonere verden, men så langt så har de lite å vise til av applikasjoner som er tilgjengelig for de store massene. Nå har de derimot noe stort på gang, så sørg for å få med deg workshopen om blockchain!",
+          "name": "Ole Grashei",
+          "bio": "Ole gikk ut fra NTNU i 2013 med en sivilingeniørgrad i datateknikk. Fra forvaltningsprosjekter har han fått innsikt i komplekse foretningsapplikasjoner og prosjektprosessen. Gjennom sine prosjekt-engasjementer i NSB har Ole vært involvert både i kjerne-billettsystem (Java-utvikling) og salgskanalen for konduktører (Android-utvikling for Mobile Terminaler / smarttelefon). Ole faglig interessert og er jevnlig å se på meetups om utvikling, arkitektur og maskinlæring.",
           "pic": "sigsko.png",
-          "email": "epost"
+          "email": "olegra@knowit.no"
         }
       ],
       "title": "Intro til workshop om maskinlæring",
