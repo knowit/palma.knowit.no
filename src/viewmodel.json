@@ -82,7 +82,7 @@
           "isBreak": true
         },
         {
-          "time": "10:15-15:00 Fag (Workshops)",
+          "time": "10:15-15:00 Workshops m/innlagt lunsj",
           "entries": [
             {
               "room": "Rom 1",
@@ -105,7 +105,7 @@
           ]
         },
         {
-          "time": "10:15-15:00 Fag (Workshops)",
+          "time": "10:15-15:00 Workshops m/innlagt lunsj",
           "entries": [
               {
               "room": "Rom 4",
@@ -128,7 +128,7 @@
           ]
         },
 	    {
-		 "time": "15:00 Pakking, avreise til fly (stopp for lunsj på veien)",
+		 "time": "15:00 Pakking, avreise til fly (stopp for middag på veien)",
           "entries": [
   		    {
              "room": "",
