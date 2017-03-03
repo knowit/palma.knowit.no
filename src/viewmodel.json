@@ -264,9 +264,9 @@
           "email": "ruf@knowit.no"
         }
       ],
-      "title": "Praktisk introduksjon til Elm",
+      "title": "Lag en Chrome-extension i Elm som går mot Ruter sitt API for sanntidsdata",
       "type": "Workshop (4.5 timer)",
-      "description": ""
+      "description": "Motivasjon: Misfornøyd med reiseplanleggeren til Ruter? Eller vil du skreddersy din egen sanntidsmonitor for stoppestedene som er relevante for deg? På denne workshopen lager vi en Chrome-extension for å kommunisere med APIet til Ruter (http://reisapi.ruter.no/help). Du står fritt til å gjøre hva du vil med APIet, men vi forbereder noen eksempler med varierende vanskelighetsgrad. Hvorfor Elm? Elm er et funksjonelt språk som kompilerer til JavaScript. Det er i stand til å fange veldig mange typer feil compile time, som ellers ville feilet runtime. Sammen med kanskje verdens mest lettfattelige kompilatorfeilmeldinger gjør dette frontend gøy å drive med. Nivå: Workshopen passer alle som vil, også de uten erfaring med Elm. Vi holder en kort introduksjon i Elm for de som ikke kjenner det fra før eller som trenger en oppfriskning." 
     },
     "cloud_ws": {
       "pending": false,
