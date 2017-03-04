@@ -250,7 +250,7 @@
           "email": "johannes.akse@knowit.no"
         }
       ],
-      "title": "React",
+      "title": "Bli kjent med React",
       "type": "Workshop (4.5 timer)",
       "description": "Er du lei av å høre om hvor fantastisk revolusjonerende React er uten å vite hva det egentlig dreier seg om? Eller vil du kanskje bare ha en enkel innføring i hvordan man kan utvikle en web-applikasjon? I denne workshopen vil vi oppfylle begge disse innfallsvinklene. Vi går gjennom de viktigste React konseptene ved å starte helt fra begynnelsen. Sammen vil vi bygge en liten applikasjon som illustrerer dataflyten i React, og hvordan en komponentmodell lar oss presentere data på en lett forståelig og effektiv måte."
     },
