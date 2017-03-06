@@ -13,7 +13,7 @@
               "day": "Lørdag 1. april",
               "collections": [
                 {
-                  "time": "10:00-11.00 Keynote",
+                  "time": "09:30-10.30 Keynote",
                   "entries": [
                     {
                       "room": "Rom 1",
@@ -24,7 +24,7 @@
                     ]
                     },
                     {
-                  "time": "11:15-12:30 Korte foredrag (intro til workshops)",
+                  "time": "10:45-12:00 Korte foredrag (intro til workshops)",
                   "entries": [
                     {
                       "room": "Rom 1",
@@ -39,7 +39,7 @@
                     ]
                     },
                     {
-         			 "time": "12:30-13:00 Quiz",
+         			 "time": "12:00-12:30 Quiz",
 			          "entries": [
     	    		    {
 			              "room": "Rom 1",
@@ -50,7 +50,7 @@
     	    		  ]
 	    	    	},
 	    	    	{
-         			 "time": "13:00-14:00 Lunsj",
+         			 "time": "12:30-13:30 Lunsj",
                "isBreak": true
 	    	    	},
 	    	    	{
@@ -67,7 +67,7 @@
       "day": "Søndag 2. april",
       "collections": [
         {
-          "time": "10:00-10:10 God morgen 😴",
+          "time": "09:30-09:40 God morgen 😴",
           "entries": [
             {
               "room": "Felles",
@@ -78,11 +78,11 @@
           ]
         },
         {
-          "time": "10:10-10:15 Pause",
+          "time": "09:40-09:45 Pause",
           "isBreak": true
         },
         {
-          "time": "10:15-15:00 Workshops m/innlagt lunsj",
+          "time": "09:45-14:15 Workshops m/innlagt lunsj",
           "entries": [
             {
               "room": "Rom 1",
@@ -105,7 +105,7 @@
           ]
         },
         {
-          "time": "10:15-15:00 Workshops m/innlagt lunsj",
+          "time": "09:45-14:15 Workshops m/innlagt lunsj",
           "entries": [
               {
               "room": "Rom 4",
@@ -128,7 +128,7 @@
           ]
         },
 	    {
-		 "time": "15:00 Pakking, avreise til fly (stopp for middag på veien)",
+		 "time": "14:30 Avreise til fly (stopp for middag på veien)",
           "entries": [
   		    {
              "room": "",
