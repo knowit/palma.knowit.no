@@ -24,7 +24,7 @@
                     ]
                     },
                     {
-                  "time": "10:45-12:00 Korte foredrag (intro til workshops)",
+                  "time": "10:45-12:00 Korte foredrag",
                   "entries": [
                     {
                       "room": "Rom 1",
@@ -342,7 +342,7 @@
           "email": "stian.lagstad@knowit.no"
         }
       ],
-      "title": "Intro til workshop om maskinlæring",
+      "title": "Maskinlæring - et raskt overblikk",
       "type": "Foredrag (15 min)"
     },
     "blockchain": {
@@ -355,7 +355,7 @@
           "email": "epost"
         }
       ],      
-      "title": "Intro til workshop om blockchain",
+      "title": "Blockchain - et raskt overblikk",
       "type": "Foredrag (15 min)"
     },
     "eksternt_foredrag": {
@@ -388,7 +388,7 @@
           "email": "ruf@knowit.no"
         }
       ],
-      "title": "Intro til workshops frontend/web (Elm og React)",
+      "title": "Frontend - state of the union",
       "type": "Foredrag (15 min)",
       "description": "Har du lyst til å bli frontstykkeutvikler på verdensveven? Vet du hva det egentlig innebærer? Det vet vi, og vi gir et innblikk i det komplekse beistet som venter i edderkoppnettet. I tillegg vil Runar kort fortelle om hvordan det behagelige livet er i Elm-land for tiden."
     },
@@ -402,7 +402,7 @@
           "email": "mjo@knowit.no"
         }
       ],
-      "title": "Intro til workshop om Lean startup",
+      "title": "Lean startup - an introduction",
       "type": "Foredrag (15 min)",
       "description": "We all have a business idea. But how exactly does an idea become a business? And how can you be sure that anyone wants what you’re selling? Discover how this is relevant to Knowit Objectnet."
     },
@@ -416,9 +416,9 @@
           "email": "kes@knowit.no"
         }
       ],
-      "title": "Intro til serverless / cloud-workshop",
+      "title": "Hvor er serveren min?",
       "type": "Foredrag (15 min)",
-      "description": "En workshop hvor du vil lære om serverless infrastruktur i skyen og programmering av virtuelle tanks. Vi vil bruke skytjenester tilbudt av Amazon Web Services, som AWS Lambda og AWS API Gateway som vil hoste et enkelt API for å slåss med tanks. APIet vil implementere et grensesnitt definert av et spill, Tank Wars. I dette APIet vil du implementere en enkel kunstig intelligens som, i en uhøytidelig konkurranse, vil slåss mot andre implementasjoner mot slutten av workshopen."
+      "description": "Du har hørt noen nevne Serverless en gang, men vet ikke helt hva det er? Her får du en introduksjon til konseptet serverless computing. Jeg forteller deg også litt om AWS Lambda og AWS Api Gateway."
     }
   }
 }
