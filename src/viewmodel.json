@@ -265,7 +265,7 @@
       "speakers": [
         {
           "name": "Runar Furenes",
-          "bio": "Runar hadde sommerjobb i Knowit i 2011. Etter endt utdannelse jobbet han et halvt år i statlig sektor, før han begynte i fast stilling hos Knowit desember 2013. Han har erfaring med ulike programmeringsspråk og teknologier, og er spesielt opptatt av funksjonell programmering.",
+          "bio": "Runar har jobbet i Oslo kommune-prosjektet de siste 3 årene. Der har han hovedsaklig drevet med backendutvikling og scripting i hhv Java/Scala og Python. Han er veldig glad i funksjonell programmering, og har det siste året prøvd seg på frontend-utvikling i Elm.",
           "pic": "ruf.jpg",
           "email": "ruf@knowit.no"
         }
@@ -383,7 +383,7 @@
         },
         {
           "name": "Runar Furenes",
-          "bio": "Runar hadde sommerjobb i Knowit i 2011. Etter endt utdannelse jobbet han et halvt år i statlig sektor, før han begynte i fast stilling hos Knowit desember 2013. Han har erfaring med ulike programmeringsspråk og teknologier, og er spesielt opptatt av funksjonell programmering.",
+          "bio": "Runar har jobbet i Oslo kommune-prosjektet de siste 3 årene. Der har han hovedsaklig drevet med backendutvikling og scripting i hhv Java/Scala og Python. Han er veldig glad i funksjonell programmering, og har det siste året prøvd seg på frontend-utvikling i Elm.",
           "pic": "ruf.jpg",
           "email": "ruf@knowit.no"
         }
