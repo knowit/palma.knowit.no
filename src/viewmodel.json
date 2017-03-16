@@ -137,6 +137,17 @@
           	  ]
 	        }
   		  ]
+   		},
+   		{
+		 "time": "Avreise med fly: Berlin - Oslo 20.05 - 21.45",
+          "entries": [
+  		    {
+             "room": "",
+		      "slots": [
+      			""
+          	  ]
+	        }
+  		  ]
    		}
       ]
     }
@@ -270,9 +281,9 @@
           "email": "ruf@knowit.no"
         }
       ],
-      "title": "Lag en Chrome-extension i Elm som går mot Ruter sitt API for sanntidsdata",
+      "title": "Lag en Elm-applikasjon som benytter Ruter sitt API for sanntidsdata.",
       "type": "Workshop (4.5 timer)",
-      "description": "Motivasjon: Misfornøyd med reiseplanleggeren til Ruter? Eller vil du skreddersy din egen sanntidsmonitor for stoppestedene som er relevante for deg? På denne workshopen lager vi en Chrome-extension for å kommunisere med APIet til Ruter (http://reisapi.ruter.no/help). Du står fritt til å gjøre hva du vil med APIet, men vi forbereder noen eksempler med varierende vanskelighetsgrad. Hvorfor Elm? Elm er et funksjonelt språk som kompilerer til JavaScript. Det er i stand til å fange veldig mange typer feil compile time, som ellers ville feilet runtime. Sammen med kanskje verdens mest lettfattelige kompilatorfeilmeldinger gjør dette frontend gøy å drive med. Nivå: Workshopen passer alle som vil, også de uten erfaring med Elm. Vi holder en kort introduksjon i Elm for de som ikke kjenner det fra før eller som trenger en oppfriskning." 
+      "description": "Motivasjon: Misfornøyd med reiseplanleggeren til Ruter? Eller vil du skreddersy din egen sanntidsmonitor for stoppestedene som er relevante for deg? På denne workshopen lager vi en Elm-applikasjon for å kommunisere med APIet til Ruter (http://reisapi.ruter.no/help). Du står fritt til å gjøre hva du vil med APIet, men vi forbereder noen eksempler med varierende vanskelighetsgrad. Hvorfor Elm? Elm er et funksjonelt språk som kompilerer til JavaScript. Det er i stand til å fange veldig mange typer feil compile time, som ellers ville feilet runtime. Sammen med kanskje verdens mest lettfattelige kompilatorfeilmeldinger gjør dette frontend gøy å drive med. Nivå: Workshopen passer alle som vil, også de uten erfaring med Elm. Vi holder en kort introduksjon i Elm for de som ikke kjenner det fra før eller som trenger en oppfriskning. NB: Denne workshopen innebar egentlig å lage en Chrome Extension, men det har vi i senere tid gått bort fra, for å få mer tid til å implementere features i Elm. Vi lager derfor en ren Elm-applikasjon, men kan vise hvordan den kan gjøres om til en Chrome Extension for de som er interessert." 
     },
     "cloud_ws": {
       "pending": false,
