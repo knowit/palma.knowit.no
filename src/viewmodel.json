@@ -13,11 +13,12 @@
               "day": "Lørdag 1. april",
               "collections": [
                 {
-                  "time": "09:30-10.30 Keynote",
+                  "time": "09:00-10.30 Keynotes",
                   "entries": [
                     {
                       "room": "Rom 1",
                       "slots": [
+                        "fagstrategi",
                         "eksternt_foredrag"
                       ]
                     }
@@ -383,6 +384,25 @@
       "type": "Keynote (60 min)",
       "description": "Kolonial.no er Norges største matbutikk på nett, og Nordens raskest voksende dagligvareselskap på nett. Christian Mikalsen er teknologisjef og en av gründerne bak suksessbedriften. Den tverrfaglige hverdagen og samhandlingen mellom det digitale og det fysiske er en av hovedutfordringene i Christians hverdag, og en av styrkene til gründerteamet."
     },
+    "fagstrategi": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Jan Henrik Gundelsby",
+          "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Oslo kommune med arkitektur og prosess. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
+          "pic": "jhg.jpg",
+          "email": "jhg@knowit.no"
+        },
+        {
+          "name": "Haakon Spilde",
+          "bio": "Haakon er fagsjef i Knowit Objectnet. Haakon er lidenskapelig opptatt av prosess og metode, med særlig fokus på Agile teknikker. Hvordan lære av sine feil, hvordan endre sine metoder og prosesser til det bedre og hvordan få et team til å fungere optimalt er tema som opptar Haakon.",
+          "pic": "hfs.jpg",
+          "email": "hfs@knowit.no"
+        }      ],
+      "title": "Fagstrategi 2017",
+      "type": "Keynote (20 min)",
+      "description": "Fagsjefene presenterer arbeidet med fagstrategi for 2017; satsningsområder, samarbeid, felles referansearkitektur, kundemuligheter og fagaktivitet."
+      },
     "frontend": {
       "pending": false,
       "speakers": [
