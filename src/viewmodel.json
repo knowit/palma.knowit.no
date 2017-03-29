@@ -346,22 +346,16 @@
             "email": "olegra@knowit.no"
           },
           {
-            "name": "Johan Reitan",
-            "bio": "Johan er en systemutvikler med master i Datateknikk ved NTNU der han spesialiserte seg i kunstig intelligens. Hovedinteressen har vært maskinlæring, gjerne sammen med språkteknologi, som han har jobbet mye med. Linux og åpen kildekode er en lidenskap, og mye av fritiden hans går med på eksperimentering med og bidrag til åpne prosjekter. Han har mye erfaring med Android, Java og Kotlin, inkludert Android TV og Android Things, samt Python og diverse Python-rammeverk, men har også jobbet med .NET.",
-            "pic": "Johan.Reitan.300x375.jpg",
-            "email": "johan.reitan@knowit.no"
-          },
-          {
             "name": "Patrik Bakken",
             "bio": "Patrik startet i Knowit Objecnet i august 2016 etter 3 år i USA på Illinois State University, og 3 år på NTNU i Trondheim hvor mastergraden ble fullført. Kjernekompetansen ligger i back-end utvikling i språk som bl.a. Java og C++. Patrik er veldig interessert i å lære og ser alltid etter nye utfordringer.",
             "pic": "Patrik.Fridberg.Bakken.300x375.jpg",
             "email": "patrik.bakken@knowit.no"
           },
           {
-            "name": "Stian Lågstad",
-            "bio": "Stian ble uteksaminert fra Universitetet i Oslo i juni 2016 med A på masteroppgaven i bioinformatikk. Gjennom studiene har han fått erfaring med Python, R, Java, LISP, og gjennom deltidsjobben som konsulent for Realfagsbiblioteket jobbet han mye med Javascript. Hos Knowit Objectnet gikk han inn i LISA-prosjektet hos NSB, der han jobber med Java og rammeverk som Spring og Feign.",
-            "pic": "stian.lagstad.jpg",
-            "email": "stian.lagstad@knowit.no"
+            "name": "Per-Ove Joakimsen",
+            "bio": "Han startet med programvareutvikling i 1998 og har holdt på med det siden både som intern utvikler og konsulent. Han har også tidligere vært leder i bruker gruppen for .NET utviklere i Stavanger hvor han også holdte foredrag. Som en nysgjerrig utvikler holder han seg kontinuerlig oppdatert på programmeringsspråk, rammeverk, APIer og metodikk. Innen sitt fag er han ansett som en engasjert og løsningsorientert utvikler med en god sosial holdning. For tiden spesialiserer han seg innen utvikling for mobile plattformer.",
+            "pic": "per-ove.joakimsen.jpg",
+            "email": "per-ove.joakimsen@knowit.no"
           }
         ],
         "title": "Maskinlæring - et raskt overblikk",
