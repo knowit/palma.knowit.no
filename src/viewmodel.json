@@ -96,19 +96,19 @@
             "time": "09:45-14:15 Workshops m/innlagt lunsj",
             "entries": [
               {
-                "room": "Rom 1",
+                "room": "Seksjon 1 (2. etg)",
                 "slots": [
                   "ml_ws"
                 ]
               },
               {
-                "room": "Rom 2",
+                "room": "Seksjon 2 (2. etg)",
                 "slots": [
-                  "blockchain_ws"
+                  "cloud_ws"
                 ]
               },
               {
-                "room": "Rom 3",
+                "room": "Seksjon 3 (2. etg)",
                 "slots": [
                   "frontend_ws"
                 ]
@@ -119,19 +119,19 @@
             "time": "09:45-14:15 Workshops m/innlagt lunsj",
             "entries": [
                 {
-                "room": "Rom 4",
+                "room": "Amsterdam (1. etg)",
                 "slots": [
                   "elm_ws"
                 ]
               },
                           {
-                "room": "Rom 5",
+                "room": "Wien (1. etg)",
                 "slots": [
-                  "cloud_ws"
+                  "blockchain_ws"
                 ]
               },
                           {
-                "room": "Rom 6",
+                "room": "Helsinki/Rom (1. etg)",
                 "slots": [
                   "lean_ws"
                 ]
