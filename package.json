@@ -1,7 +1,7 @@
 {
-  "name": "berlin-ghpages",
+  "name": "palma-ghpages",
   "version": "1.0.0",
-  "description": "Fagseminar Berlin 2017",
+  "description": "Fagseminar Palma 2017",
   "scripts": {
     "build": "jade --out . --obj src/viewmodel.json --pretty src/index.jade",
     "build:prog": "jade --out . --obj src/viewmodel.json --pretty src/prog.jade",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/knowit/berlin.knowit.no.git"
+    "url": "git+https://github.com/knowit/palma.knowit.no.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/knowit/berlin.knowit.no/issues"
+    "url": "https://github.com/knowit/palma.knowit.no/issues"
   },
-  "homepage": "http://berlin.knowit.no/",
+  "homepage": "http://palma.knowit.no/",
   "devDependencies": {
     "jade": "^1.11.0"
   }
