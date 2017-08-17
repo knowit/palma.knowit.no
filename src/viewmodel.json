@@ -9,6 +9,179 @@
               "gmapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3149595.258427941!2d0.3863715534267993!3d39.5646441149409!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1297927213cb68a5%3A0x54d060454162abdb!2sMeli%C3%A1+Palas+Atenea!5e0!3m2!1sno!2sno!4v1496914279350"
             },
             "schedules": [
-         ]
-    
+              {
+                "day": "Fredag 13. Oktober",
+                "collections": [
+                  {
+                    "time": "20:00 Flyet går til Palma fra Oslo Lufthavn",
+                    "isBreak": true
+                  },
+                  {
+                    "time": "23:30 Lander i Palma",
+                    "isBreak": true
+                  }
+                ]
+              },
+              {
+                "day": "Lørdag 14. Oktober",
+                "collections": [
+                  {
+                    "time": "? - 17:00 - Ikke-faglige aktiviteter",
+                    "isBreak": true
+                  },
+                  {
+                    "time": "19:00 Aperitiff",
+                    "isBreak": true
+                  },
+                  {
+                    "time": "20:00 Middag",
+                    "isBreak": true
+                  }
+                ]
+              },
+              {
+                "day": "Søndag 15. Oktober",
+                "collections": [
+                  {
+                    "time": "09:30-10.00 Velkommen",
+                    "entries": [
+                      {
+                        "room": "Rom 1",
+                        "slots": [
+                          "fagstrategi"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "time": "10:00-12:00 Lyntaler",
+                    "entries": [
+                      {
+                        "room": "Rom 1",
+                        "slots": [
+                        ]
+                      },
+                      {
+                        "room": "Rom 2",
+                        "slots": [
+                        ]
+                      },
+                      {
+                        "room": "Rom 3",
+                        "slots": [
+                        ]
+                      },
+                      {
+                        "room": "Rom 4",
+                        "slots": [
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "time": "12:00-13:00 Lunsj",
+                    "isBreak": true
+                  },
+                  {
+                    "time": "13:00-15:00 Lyntaler",
+                    "entries": [
+                      {
+                        "room": "Rom 1",
+                        "slots": [
+                        ]
+                      },
+                      {
+                        "room": "Rom 2",
+                        "slots": [
+                        ]
+                      },
+                      {
+                        "room": "Rom 3",
+                        "slots": [
+                        ]
+                      },
+                      {
+                        "room": "Rom 4",
+                        "slots": [
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "time": "15:00-15:15 Pause",
+                    "isBreak": true
+                  },
+                  {
+                    "time": "15:15-17:30 Open Space",
+                    "isBreak": true
+                  },
+                  {
+                    "time": "17:30-18:30 Quiz",
+                    "isBreak": true
+                  },
+                  {
+                    "time": "20:00 Middag",
+                    "isBreak": true
+                  }
+                ]
+              },
+              {
+                "day": "Mandag 16. Oktober",
+                "collections": [
+                  {
+                    "time": "09:00-09:30 God morgen",
+                    "entries": [
+                      {
+                        "room": "Rom 1",
+                        "slots": [
+                          "godmorgen"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "time": "09:30-12:00 [Sett inn kult navn her]",
+                    "isBreak": true
+                  },
+                  {
+                    "time": "12:00 Avreise til flyplassen i Palma",
+                    "isBreak": true
+                  },
+                  {
+                    "time": "15:45 Flyet går til Oslo Lufthavn",
+                    "isBreak": true
+                  }
+                ]
+              }
+         ],
+         "talks": {
+           "godmorgen": {
+              "pending": false,
+              "speakers": [
+                {
+                  "name": "Jan Henrik Gundelsby",
+                  "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Oslo kommune med arkitektur og prosess. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
+                  "pic": "jhg.jpg",
+                  "email": "jhg@knowit.no"
+                }
+              ],
+              "title": "God morgen",
+              "type": "Keynote",
+              "description": "God morgen"
+            },
+           "fagstrategi": {
+              "pending": false,
+              "speakers": [
+                {
+                  "name": "Jan Henrik Gundelsby",
+                  "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Oslo kommune med arkitektur og prosess. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
+                  "pic": "jhg.jpg",
+                  "email": "jhg@knowit.no"
+                }
+              ],
+              "title": "Velkommen",
+              "type": "Keynote (20 min)",
+              "description": "Fagsjefen presenterer arbeidet med fagstrategi for 2017; satsningsområder, samarbeid, felles referansearkitektur, kundemuligheter og fagaktivitet."
+            }
+         }
   }
