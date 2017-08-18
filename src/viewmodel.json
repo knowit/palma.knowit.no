@@ -43,7 +43,7 @@
                 "day": "Søndag 15. Oktober",
                 "collections": [
                   {
-                    "time": "09:30-10.00 Velkommen",
+                    "time": "09:30-10.00 Velkommen til fagseminar",
                     "entries": [
                       {
                         "room": "Rom 1",
@@ -130,17 +130,10 @@
                 "collections": [
                   {
                     "time": "09:00-09:30 God morgen",
-                    "entries": [
-                      {
-                        "room": "Rom 1",
-                        "slots": [
-                          "godmorgen"
-                        ]
-                      }
-                    ]
+                    "isBreak": true
                   },
                   {
-                    "time": "09:30-12:00 [Sett inn kult navn her]",
+                    "time": "09:30-12:00 TBA",
                     "isBreak": true
                   },
                   {
@@ -155,20 +148,6 @@
               }
          ],
          "talks": {
-           "godmorgen": {
-              "pending": false,
-              "speakers": [
-                {
-                  "name": "Jan Henrik Gundelsby",
-                  "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Oslo kommune med arkitektur og prosess. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
-                  "pic": "jhg.jpg",
-                  "email": "jhg@knowit.no"
-                }
-              ],
-              "title": "God morgen",
-              "type": "Keynote",
-              "description": "God morgen"
-            },
            "fagstrategi": {
               "pending": false,
               "speakers": [
@@ -179,9 +158,9 @@
                   "email": "jhg@knowit.no"
                 }
               ],
-              "title": "Velkommen",
-              "type": "Keynote (20 min)",
-              "description": "Fagsjefen presenterer arbeidet med fagstrategi for 2017; satsningsområder, samarbeid, felles referansearkitektur, kundemuligheter og fagaktivitet."
+              "title": "Velkommen til fagseminar",
+              "type": "Keynote (30 min)",
+              "description": "Fagsjefen snakker om programmet denne helgen. Om faglige satsningsområder, kunder, trender, fagaktivitet m.m."
             }
          }
   }
