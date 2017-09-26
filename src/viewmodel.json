@@ -75,7 +75,7 @@
           "time": "10:15-12:00 Lyntaler",
           "entries": [
             {
-              "room": "Rom 1 (Athena)",
+              "room": "Athena",
               "slots": [
                 "fuckups",
                 "howtobeasenior",
@@ -85,7 +85,7 @@
               ]
             },
             {
-              "room": "Rom 2 (Apolo)",
+              "room": "Apolo",
               "slots": [
                 "hyperledger",
                 "kryptovaluta",
@@ -95,7 +95,7 @@
               ]
             },
             {
-              "room": "Rom 3 (Discobolo)",
+              "room": "Discobolo",
               "slots": [
                 "smidigmalt",
                 "hendelsesbasertark",
@@ -105,7 +105,7 @@
               ]
             },
             {
-              "room": "Rom 4 (Nepturn)",
+              "room": "Nepturn",
               "slots": [
                 "mirkotjenestersmarthus",
                 "ruterbillett",
@@ -124,7 +124,7 @@
           "time": "13:00-14:00 Lyntaler",
           "entries": [
             {
-              "room": "Rom 1 (Athena)",
+              "room": "Athena",
               "slots": [
                 "sleepless",
                 "chessengine",
@@ -132,7 +132,7 @@
               ]
             },
             {
-              "room": "Rom 2 (Apolo)",
+              "room": "Apolo",
               "slots": [
                 "coreml",
                 "machinelearning",
@@ -157,7 +157,7 @@
           "time": "16:10-17:10 Quiz",
           "entries": [
             {
-              "room": "Rom 1 (Athena)",
+              "room": "Athena",
               "slots": [
                 "musikkquiz"
               ]
