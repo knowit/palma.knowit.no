@@ -1,166 +1,633 @@
-  {
-    "title": "Knowit Objectnet Fagseminar høsten 2017",
-            "event": {
-              "date": "13. oktober - 16. oktober 2017",
-              "longDate": "13. oktober - 16. oktober 2017",
-              "venue": "Melia Palas Atenea",
-              "city": "Palma",
-              "country": "Spania",
-              "gmapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3149595.258427941!2d0.3863715534267993!3d39.5646441149409!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1297927213cb68a5%3A0x54d060454162abdb!2sMeli%C3%A1+Palas+Atenea!5e0!3m2!1sno!2sno!4v1496914279350"
-            },
-            "schedules": [
-              {
-                "day": "Fredag 13. Oktober",
-                "collections": [
-                  {
-                    "time": "20:00 Flyet går til Palma fra Oslo Lufthavn",
-                    "isBreak": true
-                  },
-                  {
-                    "time": "23:30 Lander i Palma",
-                    "isBreak": true
-                  }
-                ]
-              },
-              {
-                "day": "Lørdag 14. Oktober",
-                "collections": [
-                  {
-                    "time": "? - 17:00 - Ikke-faglige aktiviteter",
-                    "isBreak": true
-                  },
-                  {
-                    "time": "19:00 Aperitiff",
-                    "isBreak": true
-                  },
-                  {
-                    "time": "20:00 Middag",
-                    "isBreak": true
-                  }
-                ]
-              },
-              {
-                "day": "Søndag 15. Oktober",
-                "collections": [
-                  {
-                    "time": "09:30-10.00 Velkommen til fagseminar",
-                    "entries": [
-                      {
-                        "room": "Rom 1",
-                        "slots": [
-                          "fagstrategi"
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "time": "10:00-12:00 Lyntaler",
-                    "entries": [
-                      {
-                        "room": "Rom 1",
-                        "slots": [
-                        ]
-                      },
-                      {
-                        "room": "Rom 2",
-                        "slots": [
-                        ]
-                      },
-                      {
-                        "room": "Rom 3",
-                        "slots": [
-                        ]
-                      },
-                      {
-                        "room": "Rom 4",
-                        "slots": [
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "time": "12:00-13:00 Lunsj",
-                    "isBreak": true
-                  },
-                  {
-                    "time": "13:00-15:00 Lyntaler",
-                    "entries": [
-                      {
-                        "room": "Rom 1",
-                        "slots": [
-                        ]
-                      },
-                      {
-                        "room": "Rom 2",
-                        "slots": [
-                        ]
-                      },
-                      {
-                        "room": "Rom 3",
-                        "slots": [
-                        ]
-                      },
-                      {
-                        "room": "Rom 4",
-                        "slots": [
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "time": "15:00-15:15 Pause",
-                    "isBreak": true
-                  },
-                  {
-                    "time": "15:15-17:30 Open Space",
-                    "isBreak": true
-                  },
-                  {
-                    "time": "17:30-18:30 Quiz",
-                    "isBreak": true
-                  },
-                  {
-                    "time": "20:00 Middag",
-                    "isBreak": true
-                  }
-                ]
-              },
-              {
-                "day": "Mandag 16. Oktober",
-                "collections": [
-                  {
-                    "time": "09:00-09:30 Internmøte for oktober!",
-                    "isBreak": true
-                  },
-                  {
-                    "time": "09:30-12:00 🔥Sparks! Følg nysgjerrigheten i dag!",
-                    "isBreak": true
-                  },
-                  {
-                    "time": "12:00 Avreise til flyplassen i Palma",
-                    "isBreak": true
-                  },
-                  {
-                    "time": "15:45 Flyet går til Oslo Lufthavn",
-                    "isBreak": true
-                  }
-                ]
-              }
-         ],
-         "talks": {
-           "fagstrategi": {
-              "pending": false,
-              "speakers": [
-                {
-                  "name": "Jan Henrik Gundelsby",
-                  "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Oslo kommune med arkitektur og prosess. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
-                  "pic": "jhg.jpg",
-                  "email": "jhg@knowit.no"
-                }
-              ],
-              "title": "Velkommen til fagseminar",
-              "type": "Keynote (30 min)",
-              "description": "Fagsjefen snakker om programmet denne helgen. Om faglige satsningsområder, kunder, trender, fagaktivitet m.m."
+{
+  "title": "Knowit Objectnet Fagseminar høsten 2017",
+  "event": {
+    "date": "13. oktober - 16. oktober 2017",
+    "longDate": "13. oktober - 16. oktober 2017",
+    "venue": "Melia Palas Atenea",
+    "city": "Palma",
+    "country": "Spania",
+    "gmapsUrl": "https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3149595.258427941!2d0.3863715534267993!3d39.5646441149409!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1297927213cb68a5%3A0x54d060454162abdb!2sMeli%C3%A1+Palas+Atenea!5e0!3m2!1sno!2sno!4v1496914279350"
+  },
+  "schedules": [
+    {
+      "day": "Fredag 13. Oktober",
+      "collections": [
+        {
+          "time": "20:00 Flyet går til Palma fra Oslo Lufthavn",
+          "isBreak": true
+        },
+        {
+          "time": "23:30 Lander i Palma",
+          "isBreak": true
+        }
+      ]
+    },
+    {
+      "day": "Lørdag 14. Oktober",
+      "collections": [
+        {
+          "time": "? - 17:00 - Ikke-faglige aktiviteter",
+          "isBreak": true
+        },
+        {
+          "time": "19:00 Middag",
+          "isBreak": true
+        }
+      ]
+    },
+    {
+      "day": "Søndag 15. Oktober",
+      "collections": [
+        {
+          "time": "09:00-09.30 Velkommen til fagseminar",
+          "entries": [
+            {
+              "room": "Athena",
+              "slots": [
+                "fagstrategi"
+              ]
             }
-         }
+          ]
+        },
+        {
+          "time": "09:30-09.55",
+          "entries": [
+            {
+              "room": "Athena",
+              "slots": [
+                "bjorg"
+              ]
+            }
+          ]
+        },
+        {
+          "time": "09:55-10.00",
+          "entries": [
+            {
+              "room": "Athena",
+              "slots": [
+                "cloudfusionintro"
+              ]
+            }
+          ]
+        },
+        {
+          "time": "10:15-12:00 Lyntaler",
+          "entries": [
+            {
+              "room": "Athena",
+              "slots": [
+                "fuckups",
+                "howtobeasenior",
+                "japan",
+                "gdpr",
+                "frontendbackend"
+              ]
+            },
+            {
+              "room": "Apolo",
+              "slots": [
+                "hyperledger",
+                "kryptovaluta",
+                "googlecloud_kenvou",
+                "googlecloud_jos",
+                "cloudmolvig"
+              ]
+            },
+            {
+              "room": "Discobolo",
+              "slots": [
+                "smidigmalt",
+                "hendelsesbasertark",
+                "kpa",
+                "rpa",
+                "rekruttering"
+              ]
+            },
+            {
+              "room": "Nepturn",
+              "slots": [
+                "mirkotjenestersmarthus",
+                "ruterbillett",
+                "elmbasics",
+                "createownsensor",
+                "gdl"
+              ]
+            }
+          ]
+        },
+        {
+          "time": "12:00-13:00 Lunsj",
+          "isBreak": true
+        },
+        {
+          "time": "13:00-14:00 Lyntaler",
+          "entries": [
+            {
+              "room": "Athena",
+              "slots": [
+                "sleepless",
+                "chessengine",
+                "minikube"
+              ]
+            },
+            {
+              "room": "Apolo",
+              "slots": [
+                "coreml",
+                "machinelearning",
+                "gmail"
+              ]
+            }
+          ]
+        },
+        {
+          "time": "14:05-14:30 Introduksjon Open Space",
+          "isBreak": true
+        },
+        {
+          "time": "14:30-16:00 Open Space",
+          "isBreak": true
+        },
+        {
+          "time": "16:00-16:10 Pause",
+          "isBreak": true
+        },
+        {
+          "time": "16:10-17:10 Quiz",
+          "entries": [
+            {
+              "room": "Athena",
+              "slots": [
+                "musikkquiz"
+              ]
+            }
+          ]
+        },
+        {
+          "time": "18:00 Felles avgang",
+          "isBreak": true
+        },
+        {
+          "time": "20:00 Middag",
+          "isBreak": true
+        }
+      ]
+    },
+    {
+      "day": "Mandag 16. Oktober",
+      "collections": [
+        {
+          "time": "09:00-09:30 Internmøte for oktober!",
+          "isBreak": true
+        },
+        {
+          "time": "09:30-12:00 \ud83d\udd25Sparks! Følg nysgjerrigheten i dag!",
+          "isBreak": true
+        },
+        {
+          "time": "12:00 Avreise til flyplassen i Palma",
+          "isBreak": true
+        },
+        {
+          "time": "15:45 Flyet går til Oslo Lufthavn",
+          "isBreak": true
+        }
+      ]
+    }
+  ],
+  "talks": {
+    "fagstrategi": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Jan Henrik Gundelsby",
+          "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Oslo kommune med arkitektur og prosess. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
+          "pic": "jhg.jpg",
+          "email": "jhg@knowit.no"
+        }
+      ],
+      "title": "Velkommen til fagseminar",
+      "type": "Keynote (30 min)",
+      "description": "Fagsjefen snakker om programmet denne helgen. Om faglige satsningsområder, kunder, trender, fagaktivitet m.m."
+    },
+    "bjorg": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Bjørg Haaland",
+          "bio": "Bjørg Haaland er viseadministrerende direktør i KnowIT Objectnet og jobber i all hovedsak operasjonelt. Bjørg har spisskompetanse innenfor prosjektledelse og leder utviklingsprosjekter av betydelig størrelse. Hun har stor arbeidskapasitet, betydelig prosjektledererfaring fra store prosjekter i offentlig sektor, er engasjert og bryr seg om personene rundt seg. Bjørg får ting gjort både fort og effektivt.",
+          "pic": "bha.jpg",
+          "email": "bha@knowit.no"
+        }
+      ],
+      "title": "Nytt ERP-system i Knowit",
+      "type": "Keynote",
+      "description": "Nytt ERP-system i Knowit"
+    },
+    "cloudfusionintro": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Kennet Vuong",
+          "bio": "Kennet er en ivrig utvikler som stadig er på jakt etter nye utfordringer og teknologier. Han ser på seg selv som en full-stack utvikler som trives godt både på fremsia med web- og mobilutvikling og på baksia med database- og serverapplikasjoner. Gjennom tidligere erfaringer har Kennet jobbet som DevOps-utvikler og objektorientert systemutvikling innenfor JVM. I tillegg har han vært scrum master og team- og techlead innenfor frontend. Kennet liker å jobbe i team i tett samarbeid med kunder og designere. Som person er Kennet positiv, ansvarsfull, ambisiøs og svært målrettet. Han ønsker alltid å utvikle seg faglig, og liker godt å påta seg nye og krevende utfordringer.",
+          "pic": "kennet.vuong.jpg",
+          "email": "kennet.vuong@knowit.no"
+        },
+        {
+          "name": "Thuc Hoang",
+          "bio": "Han jobber målrettet, verdsetter personlig kompetanseutvikling svært høyt og brenner etter å lære seg nye programmeringsspråk og teknologier. Thuc har dedikert mye av fritiden sin til å jobbe med NodeJS, nettverk og infrastruktur og sikkerhetstesting. Han jobber godt selvstendig og i team. I tillegg er han veldig lett å komme i kontakt med. Har erfaring med prosjekter hvor smidige metoder er brukt (både i skole og jobb). Han er svært fleksibel når det kommer til ansvar på jobb, og yter alltid sitt beste uavhengig hvor, hvem han er leid ut til og hva han jobber med.",
+          "pic": "Thuc.Hoang.300x375.png",
+          "email": "thuc.hoang@knowit.no"
+        }
+      ],
+      "title": "Coldfusion-surprise announcement",
+      "type": "Introduksjon",
+      "description": "Coldfusion-surprise announcement"
+    },
+    "fuckups": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Jan Henrik Gundelsby",
+          "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Oslo kommune med arkitektur og prosess. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
+          "pic": "jhg.jpg",
+          "email": "jhg@knowit.no"
+        }
+      ],
+      "title": "Mine fuckups de siste 20 årene",
+      "type": "Lyntale",
+      "description": "Mine fuckups de siste 20 årene"
+    },
+    "howtobeasenior": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Rune Storløpa",
+          "bio": "Rune har kjernekompetanse innenfor analyse, arkitektur og utvikling primært på JVM-plattform i større enterprise systemer. Tidligere gjerne forankret i SOA-definisjoner og større J2EE-installasjoner, men i senere tid ofte basert på tankegang rundt mikrotjenester, lettvektsrammeverk, språk tilpasset scenariet og gjerne skybaserte løsninger. Erfaring fra alt fra utvikling av enkle web-applikasjoner for små domener til større integrasjonsløsninger mellom domener og grensesnittene mellom disse. Han har også ledererfaring som gruppeleder og prosjektleder. Rune er engasjert, positiv og dyktig og særlig interessert i arkitektur, integrasjon og design av større systemer. Interessene har i senere tid også dreid i retning av å inkludere hele livsløpet til løsninger, og hvordan driftbarhet, videreutvikling og forvaltning av løsninger må tas inn i hele utviklingsprosessen for å kunne levere best mulig tjenester, populært gjerne kalt DevOps. Han bidrar internt i Knowit med rekruttering, vurdering av muligheter, sikring av oppdrag etc.",
+          "pic": "rst.jpg",
+          "email": "rst@knowit.no"
+        }
+      ],
+      "title": "How to be a senior - how to make it and how to fake it",
+      "type": "Lyntale",
+      "description": "How to be a senior - how to make it and how to fake it"
+    },
+    "japan": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Christoffer Eliesen",
+          "bio": "Christoffer er en engasjert utvikler som brenner for IT. Han er nysgjerrig og glad i å lære nye ting. Han stiller høye krav til seg selv og det han leverer, men er pragmatisk når det trengs. Hans interesse for IT spenner seg hele veien fra operativsystem til brukergrensesnitt, og han er derfor en naturlig fullstack og 'devops' utvikler. I disse tider er det frontend som er i vinden og Christoffers hjerte følger etter. React og Node er spennende teknologier som passer han midt i blinken. Både 'gammel' jQuery og ny React er teknologier som er givende å jobbe med for Christoffer. Flere års erfaring har gjort han trygg i rollen som konsulent. Han er beskjeden, samtidig som han er en dyp tenker med rolige øyne og et brennende hjerte.",
+          "pic": "christoffer.eliesen.JPG",
+          "email": "christoffer.eliesen@knowit.no"
+        }
+      ],
+      "title": "Ting du ikke trenger å vite om å jobbe fra Japan",
+      "type": "Lyntale",
+      "description": "Ting du ikke trenger å vite om å jobbe fra Japan"
+    },
+    "gdpr": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Joakim Lehn",
+          "bio": "Våren 2015 ble Joakim uteksaminert fra NTNU med en sivilingeniørgrad innenfor teknisk kybernetikk med spesialisering innefor navigasjon og fartøystyring. Han har tilegnet seg kompetanse innenfor mange felt gjennom varierte prosjekter, han har erfaring med blant annet android, roboter, quadcopter og sonarer med spesielt fokus på programmering, modellering, automatisering og prototyping. Disse prosjektene har gitt Joakim erfaring med flere programmeringsspråk, hovedsaklig med C, Scala, Java og Matlab. Joakim blir motivert av teambasert arbeid, og har ansvar som leder og arkitekt for et autonomt, tverrfaglig team. Dette ansvaret omfatter analyse/design av løsning, estimering, avklaringer mot kunde og utviklere i teamet, kvalitetssikring, oppfølging og rapportering. Utover dette har han gode engelskkunnskaper etter å ha studert et år i USA. Han liker nye utfordringer og har en genuin interesse for teknologi.",
+          "pic": "joakim.lehn.jpg",
+          "email": "joakim.lehn@knowit.no"
+        }
+      ],
+      "title": "GDPR - Hva er dette og hva betyr det i praksis for meg og deg?",
+      "type": "Lyntale",
+      "description": "GDPR - Hva er dette og hva betyr det i praksis for meg og deg?"
+    },
+    "frontendbackend": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Øyvind Marthinsen",
+          "bio": "Øyvind er en engasjert utvikler som brenner for utvikling av moderne web applikasjoner. Han trives like godt på klientsiden som på serversiden, og har gjennom deltakelse i flere større og mindre prosjekter tilegnet seg mye kunnskap om smidige metoder og prosjektstyring. Øyvind er en fullstack utvikler, men har de siste årene jobbet mest med frontendteknologier som JavaScript, HTML5 og CSS3. I tillegg har han stor interesse for mobile plattformer og responsivt design. Gjennom flere år som konsulent har han fått kunnskap om og erfaring med hele systemutviklingsprosessen, fra planlegging og design til testing og produksjonssetting. Øyvind er flink til å se kundens behov og setter alltid brukeren i fokus under utvikling av løsninger. Han er også en pragmatisk person som liker å utfordre seg selv på å lage enkle løsninger for komplekse problemer.",
+          "pic": "oma.jpg",
+          "email": "oma@knowit.no"
+        }
+      ],
+      "title": "Hva backend kan lære av frontend",
+      "type": "Lyntale",
+      "description": "Hva backend kan lære av frontend"
+    },
+    "hyperledger": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Anders Breivik",
+          "bio": "Anders er en erfaren teamleder med 13 års erfaring som konsulent. Som seniorkonsulent og gruppeleder i Knowit er han kjent for å være utadvendt, initiativrik og kommunikativ. Han liker å jobbe med komplekse og logiske problemstillinger, og trives med å utvikle avanserte løsninger på en smidig måte i nært samarbeid med kunder. Anders har erfaring fra utvikling på alle systemlag både i store, forretningskritiske systemer som mindre, mobile løsninger. Han har bransjeerfaring fra blant annet offentlig forvaltning, forsikring og telekom. Anders har erfaring som Scrum Master, Kanban fasilitator og teamleder i prosjekt. Som gruppeleder i Knowit har Anders personalansvar for en gruppe på 8 konsulenter, med spesielt fokus på kompetanseutvikling. Han har ansvar for selskapets deltagelse på eksterne konferanser, samt medansvar for internt fagarbeid. Anders er spesielt opptatt av formidling og deling av kunnskap, og er en mye benyttet foredragsholder på interne og eksterne konferanser. Han er sterk på både muntlig kommunikasjon og tekst, og deltar ofte i pre sale og tilbudsskriving. Han har erfaring fra arbeid med kravspesifikasjoner, systemdokumentasjon og kursing.",
+          "pic": "abr.jpg",
+          "email": "abr@knowit.no"
+        }
+      ],
+      "title": "Lag din egen Blockchain med Hyperledger Fabric",
+      "type": "Lyntale",
+      "description": "Lag din egen Blockchain med Hyperledger Fabric"
+    },
+    "kryptovaluta": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Jørgen Rognerud",
+          "bio": "Jørgen begynte i Objectnet sommeren 2017 etter å ha jobbet ett år hos EVRY Financial Services. For øyeblikket jobber han hos Entur med Android-utvikling. Jørgen har en mastergrad i informatikk fra UiO hvor han skrev en masteroppgave innen biomedisinsk informatikk med fokus på bruk av maskinlæring innen immunterapi for kreft. Andre faglige interesser er blockchain og AI.",
+          "pic": "jorgen.rognerud.jpg",
+          "email": "jorgen.rognerud@knowit.no"
+        }
+      ],
+      "title": "Hvordan investere i kryptovaluta",
+      "type": "Lyntale",
+      "description": "Hvordan investere i kryptovaluta"
+    },
+    "googlecloud_kenvou": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Kennet Vuong",
+          "bio": "Kennet er en ivrig utvikler som stadig er på jakt etter nye utfordringer og teknologier. Han ser på seg selv som en full-stack utvikler som trives godt både på fremsia med web- og mobilutvikling og på baksia med database- og serverapplikasjoner. Gjennom tidligere erfaringer har Kennet jobbet som DevOps-utvikler og objektorientert systemutvikling innenfor JVM. I tillegg har han vært scrum master og team- og techlead innenfor frontend. Kennet liker å jobbe i team i tett samarbeid med kunder og designere. Som person er Kennet positiv, ansvarsfull, ambisiøs og svært målrettet. Han ønsker alltid å utvikle seg faglig, og liker godt å påta seg nye og krevende utfordringer.",
+          "pic": "kennet.vuong.jpg",
+          "email": "kennet.vuong@knowit.no"
+        }
+      ],
+      "title": "Ett eller annet om Google cloud; Tittel kommer senere.",
+      "type": "Lyntale",
+      "description": "Ett eller annet om Google cloud; Tittel kommer senere."
+    },
+    "googlecloud_jos": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Joachim Seilfaldet",
+          "bio": "Joachim er en utvikler med erfaring innenfor objektorienert- og funksjonellutvikling.",
+          "pic": "jos.jpg",
+          "email": "jos@knowit.no"
+        }
+      ],
+      "title": "Ett eller annet om Google cloud & Spinnaker; Tittel kommer senere.",
+      "type": "Lyntale",
+      "description": "Ett eller annet om Google cloud & Spinnaker; Tittel kommer senere."
+    },
+    "cloudmolvig": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Vegar Molvig",
+          "bio": "",
+          "pic": "vegar.molvig.jpg",
+          "email": "vegar.molvig@knowit.no"
+        }
+      ],
+      "title": "Et eller annet om cloud",
+      "type": "Lyntale",
+      "description": "Et eller annet om cloud"
+    },
+    "smidigmalt": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Thomas Malt",
+          "bio": "Thomas er en erfaren løsningsarkitekt, teamleder og full stack utvikler, med lang erfaring som utvikler, arkitekt, tech lead, smidig coach og leder. Han har erfaring med endringsledelse og har tidligere både hatt ansvar for reorganisering avdelinger og produktlanseringer. Som person er Thomas positiv, løsningsorientert og opptatt av å spille teamet han har rundt seg gode.",
+          "pic": "thomas.malt.jpg",
+          "email": "Thomas.Malt@knowit.no"
+        }
+      ],
+      "title": "WTF er smidig arkitektur - hvordan jobbe med virksomhets- arkitektur på tvers av autonome team",
+      "type": "Lyntale",
+      "description": "WTF er smidig arkitektur - hvordan jobbe med virksomhetsarkitektur på tvers av autonome team"
+    },
+    "hendelsesbasertark": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Rune Myrdal",
+          "bio": "Rune er en engasjert systemutvikler som alltid søker løsninger som er best for kunden, prosjektet og systemet som skal leveres. Felles for de siste prosjektene Rune har jobbet i, er at han har vært med å utforme/videreutvikle prosesser rundt utvikling og testing, rapportering, kvalitetssikring, versjonskontroll av kode samt koordinert endringskrav. I tillegg til utvikling (for det meste i Java) har han jobbet med å utforme den totale arkitekturen for de nye systemene. Dette innebærer både å få best mulig utnyttelse internt i et system samt integrasjon med andre systemer. Rune har gjennom ulike roller som systemutvikler hos forskjellige kunder opparbeidet seg bred erfaring rundt hvilke tekniske løsninger som fungerer og hvilke fallgruver som må unngås. Konsulenten liker å jobbe med arkitektur og har derfor gjennomført TOGAF 9 sertifisering (level 1 og 2). Rune har gode norskkunnskaper, både skriftlig og muntlig.",
+          "pic": "rmy.jpg",
+          "email": "rmy@knowit.no"
+        }
+      ],
+      "title": "Hendelsesbasert arkitektur i folkeregisteret",
+      "type": "Lyntale",
+      "description": "Hendelsesbasert arkitektur i folkeregisteret"
+    },
+    "kpa": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Arne Løvold",
+          "bio": "Arne er en gla gutt",
+          "pic": "arne.lovold.jpg",
+          "email": "arne.lovold@knowit.no"
+        }
+      ],
+      "title": "KPA – Kontinuerlig Produktutvikling i tverrfaglige Autonome team",
+      "type": "Lyntale",
+      "description": "Det fleste sier de er Smidige i dag! DevOps med sin  tilnærming, metode og teknikker er også i ferd med å bli allment akseptert. Hva er det neste? Hva er de viktigste trendene?"
+    },
+    "rpa": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Tor Oskar Wilhelmsen",
+          "bio": "Tor Oskar er utdannet Siv.Ing og har mange års erfaring som utvikler og arkitekt. Han trives godt i grenselandet mellom arkitektur og utvikling og mener at man må bli «skitten på fingrene» for å være en god arkitekt. Han bidrar gjerne i ulike roller i prosjekter avhengig av behovet i prosjektet. Tor Oskar søker ofte ansvar i prosjekter og ønsker alltid å levere til avtalt tid og kost. Han har stor arbeidskapasitet, har gode kommunikasjonsevner, er hjelpsom er lett og samarbeide med og jobber godt under press. De siste årene har han jobbet mye med arkitektur og design i tillegg til mye utvikling. Han har mye erfaring innen ulike felt og har god domenekunnskap innen forsikring/finans og offentlig sektor. Han er alltid på jakt etter ny kunnskap og tar gjerne nye utfordringer innenfor nye domener, både som utvikler og arkitekt.",
+          "pic": "wiltor.jpg",
+          "email": "toroskar.wilhelmsen@knowit.no"
+        }
+      ],
+      "title": "RPA – velsignelse eller forbannelse?",
+      "type": "Lyntale",
+      "description": "Vi deler erfaringer fra vårt første RPA prosjekt – er det lett å komme i gang hva kreves av forkunnskaper? Er dette noe for en hard core programmerer?"
+    },
+    "rekruttering": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Lars Ivar Næss",
+          "bio": "Lars Ivar Næss har jobbet i Knowit Objectnet (inkl. datterselskap Unified Consulting) som avdelingsleder siden 2003, med ansvar for ca. 40 konsulenter. Stillingen omfatter personalansvar, budsjettansvar, prosjektansvar, kundeansvar, salg av konsulenter, vurdering av nye muligheter, sikring av oppdrag etc. Han er sertifisert innenfor prosjektledelse (PMP / PMI-ACP) og test (ISTQB), og har bakgrunn som utvikler med nøkkelkompetanse innenfor databasesystemer, datamodellering, objektorientert modellering / utvikling samt systemutviklingsprosesser. Siden 2008 har han vært involvert i flere prosjekter for Oslo kommune som prosjektleder, kundeansvarlig og rådgiver - bl.a. ITAS (Interaktive Tjenester) og PFF (Program for fellesfunksjonalitet). De senere årene har han også vært involvert mot NSB, Kommuneforlaget, Statens Vegvesen, Statistisk Sentralbyrå.",
+          "pic": "lin.png",
+          "email": "lin@knowit.no"
+        }
+      ],
+      "title": "Rekrutterings- fronten: holder vi vår posisjon overfor studentene?",
+      "type": "Lyntale",
+      "description": "Rekrutteringsfronten: holder vi vår posisjon overfor studentene? hvordan går det med våre framstøt overfor erfarne? Oppdatert status høsten 2017."
+    },
+    "mirkotjenestersmarthus": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Henrik Stene",
+          "bio": "Henrik er engasjert, fremtidsrettet og opptatt av at kunden skal bli fornøyd. Det er viktigere å gi litt ekstra og sørge for kvalitetsarbeid. Dette krever planlegging og motivasjon, som er en del av Henrik sine mål som konsulent og utvikler. Ved siden av forskjellige interesser innen IT og teknologi, er Henrik interessert i etikk, filosofi og rettsvitenskap. Henrik har flere års erfaring som lærer og seminarforeleser innen programmeringsfag ved Universitetet i Oslo og har jobbet som konsulent siden sommeren 2014.",
+          "pic": "Henrik-Stene.jpg",
+          "email": "henrik.stene@knowit.no"
+        }
+      ],
+      "title": "Mikrotjenester i min egen Smartleilighet",
+      "type": "Lyntale",
+      "description": "Hvordan jeg styrer hjemmet med min egen app (Docker, Kong, Nodejs, Spring Boot, Swift)"
+    },
+    "ruterbillett": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Henrik Otgard",
+          "bio": "Henrik er fagansvarlig for mobilitet i Knowit, og er en svært engasjert og kunnskapsrik utvikler. Spesielt engasjerer han seg i Android som plattform, men kjenner godt til hva som foregår på de andre plattformene også. Få ting engasjerer som diskusjonen og vurderingen av når en løsning bør implementeres via native kode, eller når det er mer hensiktsmessig å benytte en multiplattform-løsning. Gjennom en utpreget blid, åpen og nysgjerring fremtoning, med en tydlig interesse og forventning om å forstå sluttbrukers verdi av de løsninger han blir satt til å realisere, gjør at han raskt oppfattes som en klippe og naturlig diskusjonspart av både tekniske så vel som funksjonelle ressurser i prosjektene hvor han bidrar.Av andre interesser bør foto og trening nevnes.",
+          "pic": "heo.jpg",
+          "email": "heo@knowit.no"
+        }
+      ],
+      "title": "Fra RuterBillett til Kolumbus Billett, AKTBillett, BrakarBillett og ØKT Billett",
+      "type": "Lyntale",
+      "description": "Høsten 2016 ble et offentlig-offentlig samarbeid planlagt mellom 5 kollektivselskaper. Hva gjør vi?"
+    },
+    "elmbasics": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Tale Prestmo",
+          "bio": "Tale er nyutdannet Master i Informatikk fra NTNU Trondheim, med masteroppgave innenfor kunstig intelligens. Hun var sommerjobber i Knowit i 2016, der hun jobbet som utvikler i LISA-prosjektet for NSB. Siden har hun jobbet deltid ved Trondheims-kontoret i prosjekter for Statens Vegvesen samtidig som hun fullførte Master-graden. Fra sommeren 2017 er hun fast ansatt ved Oslo-kontoret.",
+          "pic": "tale.prestmo.png",
+          "email": "tale.prestmo@knowit.no"
+        }
+      ],
+      "title": "Elm-basics forklart av en nybegynner",
+      "type": "Lyntale",
+      "description": "Elm-basics forklart av en nybegynner"
+    },
+    "createownsensor": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Anders Dahlen",
+          "bio": "Anders har en mastergrad i Kybernetikk og robotikk ved NTNU fra våren 2015, med spesialisering i 'Navigasjon og fartøystyring'. Denne graden omhandler hovedsakelig design og implementasjon av styresystemer for skip, droner og roboter; hvor gode programmeringsferdigheter sammen med sterk matematisk forståelse står helt sentralt. Spesielt har Anders god kunnskap i språkene C, C++, Go og Java, og verktøyet Matlab. Tidligere har Anders opparbeidet erfaring med prosjektering og prosjektansvar gjennom bygging av en borelab ved NTNU. Dette har gitt han kunnskap om prioriteringer og viktigheten av ett godt oversiktsbilde. Alt dette sammen med flere års erfaring med salg gjør Anders til en ypperlig konsulent som kan bidra på alle fronter.",
+          "pic": "Anders.Dahlen.600x750.jpg",
+          "email": "anders.dahlen@knowit.no"
+        }
+      ],
+      "title": "Hvordan lage sin egen sensor",
+      "type": "Lyntale",
+      "description": "Hvordan lage sin egen sensor"
+    },
+    "gdl": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Kenneth Stigen",
+          "bio": "Kenneth har jobbet i som konsulent siden 2004, og i Knowit Objectnet siden januar 2010. Kenneth har sin kjernekompetanse innenfor arkitektur og utvikling av store løsninger på Java-plattformen. Kenneth er en utadvent person og fungerer godt i team. Kenneth er også veldig interessert i teknologi og tilegner seg ny kunnskap raskt. Som gruppeleder har han personalansvar for syv konsulenter, samt medansvar for rekruttering, vurdering av muligheter, sikring av oppdrag etc. De siste årene har Kenneth jobbet på prosjekter som fokuserer på kontinuerlige leveranser og mikrotjenester.",
+          "pic": "kes_knowit.no.jpg",
+          "email": "kes@knowit.no"
+        }
+      ],
+      "title": "Global Digital Library - Vi lærer verden å lese",
+      "type": "Lyntale",
+      "description": "Global Digital Library - Vi lærer verden å lese"
+    },
+    "sleepless": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Thuc Hoang",
+          "bio": "Han jobber målrettet, verdsetter personlig kompetanseutvikling svært høyt og brenner etter å lære seg nye programmeringsspråk og teknologier. Thuc har dedikert mye av fritiden sin til å jobbe med NodeJS, nettverk og infrastruktur og sikkerhetstesting. Han jobber godt selvstendig og i team. I tillegg er han veldig lett å komme i kontakt med. Har erfaring med prosjekter hvor smidige metoder er brukt (både i skole og jobb). Han er svært fleksibel når det kommer til ansvar på jobb, og yter alltid sitt beste uavhengig hvor, hvem han er leid ut til og hva han jobber med.",
+          "pic": "Thuc.Hoang.300x375.png",
+          "email": "thuc.hoang@knowit.no"
+        }
+      ],
+      "title": "Sleepless in Oslo. How to cheat time (and body).",
+      "type": "Lyntale",
+      "description": "Sleepless in Oslo. How to cheat time (and body)."
+    },
+    "chessengine": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Emil Østensen",
+          "bio": "Emil begynte som konsulent i Knowit Objectnet August 2016. Han har kompetanse innenfor C og Java-utvikling, og jobber nå som backendutvikler på JVMen. Han interesserer seg for algoritmer og effektivitet i programmer og har som mål å alltid skrive ren og testbar kode.",
+          "pic": "emil.ostensen.jpg",
+          "email": "emil.ostensen@knowit.no"
+        }
+      ],
+      "title": "Masteroppgave: A Complete Chess Engine Parallelized Using Lazy SMP",
+      "type": "Lyntale",
+      "description": "Masteroppgave: A Complete Chess Engine Parallelized Using Lazy SMP"
+    },
+    "minikube": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Simen Skoglund",
+          "bio": "Simen Skoglund begynte som konsulent i Knowit Objectnet i August 2015. Simen har sin kompetanse innenfor språk på JVMen, hovedsakelig Java hvor han primært jobber med backendutvikling. Simen er også over middels interessert i tankegangen bak DevOps hvor utvikleren også driver med drifting. Interessen for DevOps kom når Simen oppdaget hvor mye tid en utvikler kan spare ved å ta på seg enkle driftsoppgaver selv, og at kodekvaliteten på det man leverer blir bedre. I tillegg er Simen en positiv, ansvarsfull og utadvent person som alltid er i godt humør. Han er heller ikke redd for å ta på seg nye og utfordrende oppgaver, og er alltid ute etter å utvikle og utvide sin egen kompetanse.",
+          "pic": "Simen-Skoglund.600x750.jpg",
+          "email": "simen.skoglund@knowit.no"
+        }
+      ],
+      "title": "Minikube; sett opp ditt lokale utviklingsmiljø i et kubernetescluster!",
+      "type": "Lyntale",
+      "description": "Minikube; sett opp ditt lokale utviklingsmiljø i et kubernetescluster!"
+    },
+    "coreml": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Per-Ove Joakimsen",
+          "bio": "Han startet med programvareutvikling i 1998 og har holdt på med det siden både som intern utvikler og konsulent. Han har også tidligere vært leder i bruker gruppen for .NET utviklere i Stavanger hvor han også holdte foredrag. Som en nysgjerrig utvikler holder han seg kontinuerlig oppdatert på programmeringsspråk, rammeverk, APIer og metodikk. Innen sitt fag er han ansett som en engasjert og løsningsorientert utvikler med en god sosial holdning. For tiden spesialiserer han seg innen utvikling for mobile plattformer.",
+          "pic": "per-ove.joakimsen.jpg",
+          "email": "per-ove.joakimsen@knowit.no"
+        }
+      ],
+      "title": " CoreML med iOS 11",
+      "type": "Lyntale",
+      "description": " CoreML med iOS 11!"
+    },
+    "machinelearning": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Andreas Olsen",
+          "bio": "Andreas startet i Knowit Objectnet i 2016 etter å ha fullført en master i informatikk fra universitetet i Oslo. Han er blant annet interessert i Android-utvikling, maskinlæring og hvordan man kan bruke sensorer til å bedre interaksjonen mellom menneske og datamaskin.",
+          "pic": "andreas.olsen.png",
+          "email": "andreas.olsen@knowit.no"
+        }
+      ],
+      "title": "Maskinlæring og følelser og sånn – hvordan ta i bruk maskinlæring (basert på masteroppgaven)",
+      "type": "Lyntale",
+      "description": "Maskinlæring og følelser og sånn – hvordan ta i bruk maskinlæring (basert på masteroppgaven)"
+    },
+    "gmail": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Michael Johansen",
+          "bio": "A software consultant during the day and a startup founder during the night. At NTNU I studied entrepreneurship, computer science and psychology. As part of my startup venture I've gotten first-hand experience with the startup scene in both Boston and in Silicon Valley. I care more than most people about startups, and it's a topic on which I'd like to share my insights.",
+          "pic": "mjo.jpg",
+          "email": "michael.johansen@knowit.no"
+        }
+      ],
+      "title": "Gmail 🤓",
+      "type": "Lyntale",
+      "description": "Gmail 🤓"
+    },
+    "musikkquiz": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Jan Henrik Gundelsby",
+          "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Oslo kommune med arkitektur og prosess. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
+          "pic": "jhg.jpg",
+          "email": "jhg@knowit.no"
+        },
+        {
+          "name": "Christian Peter",
+          "bio": "Liker all type musikk, både dårlig og bra.",
+          "pic": "cp.jpg",
+          "email": "christian.peter@knowit.no"
+        }
+      ],
+      "title": "Musikkquiz 🎶",
+      "type": "Quiz",
+      "description": "Godt og blandet"
+    }
   }
+}

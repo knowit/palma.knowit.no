@@ -14,7 +14,7 @@ section#talks.talks
                   p.talk-description(lang=talk.languageCode)!= talk.description
                   p.talk-meta
                     | #{talk.type}, #{" "}
-                    a(href='#p_'+slot)  #{schedule.day.split(',').shift()} #{collection.time.split(' ').shift()}, track: #{entry.room}
+                    a(href='#p_'+slot)  #{schedule.day.split(',').shift()} #{collection.time.split(' ').shift()}, Rom: #{entry.room}
                   if talk.speakers
                     .speakers
                       each speaker in talk.speakers
@@ -35,5 +35,3 @@ section#talks.talks
                     p.talk-types
                       b Formats:
                       | #{' ' + talk.types.join(', ')}
-
-

@@ -13,6 +13,7 @@ section#schedule.schedule(class={progComView: progComView})
               each entry in collection.entries
                 .schedule-entry
                   h5
+                    span Rom: 
                     b #{entry.room}
                   each slot in entry.slots
                     - var talk = talks[slot]
