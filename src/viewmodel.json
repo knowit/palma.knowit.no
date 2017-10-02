@@ -354,9 +354,9 @@
           "email": "kennet.vuong@knowit.no"
         }
       ],
-      "title": "Ett eller annet om Google cloud; Tittel kommer senere.",
+      "title": "How modern cloud services can help you create awesome apps",
       "type": "Lyntale",
-      "description": "Ett eller annet om Google cloud; Tittel kommer senere."
+      "description": "How modern cloud services can help you create awesome apps"
     },
     "googlecloud_jos": {
       "pending": false,
@@ -608,7 +608,7 @@
       ],
       "title": "Gmail 🤓",
       "type": "Lyntale",
-      "description": "Gmail 🤓"
+      "description": "An hour every day is spent in your mailbox, isn’t it? However much you use email, getting familiar with the power features is important. Let’s get serious about Gmail, and save you a huge amount of focus and time over the coming years."
     },
     "epub": {
       "pending": false,
