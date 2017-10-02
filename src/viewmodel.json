@@ -121,13 +121,15 @@
           "isBreak": true
         },
         {
-          "time": "13:00-14:00 Lyntaler",
+          "time": "13:00-14:10 Lyntaler",
           "entries": [
             {
               "room": "Athena",
               "slots": [
-                "sleepless",
-                "chessengine"
+                "moneybagcloud",
+                "gmail",
+                "epub",
+                "elefanten"
               ]
             },
             {
@@ -135,17 +137,17 @@
               "slots": [
                 "coreml",
                 "machinelearning",
-                "gmail"
+                "chessengine"
               ]
             }
           ]
         },
         {
-          "time": "14:05-14:30 Introduksjon Open Space",
+          "time": "14:15-14:35 Introduksjon Open Space",
           "isBreak": true
         },
         {
-          "time": "14:30-16:00 Open Space",
+          "time": "14:35-16:00 Open Space",
           "isBreak": true
         },
         {
@@ -524,7 +526,7 @@
       "type": "Lyntale",
       "description": "Global Digital Library - Vi lærer verden å lese"
     },
-    "sleepless": {
+    "moneybagcloud": {
       "pending": false,
       "speakers": [
         {
@@ -534,9 +536,9 @@
           "email": "thuc.hoang@knowit.no"
         }
       ],
-      "title": "Sleepless in Oslo. How to cheat time (and body).",
+      "title": "Hvor får man mest for pengene i skyen 💰",
       "type": "Lyntale",
-      "description": "Sleepless in Oslo. How to cheat time (and body)."
+      "description": "Hvor får man mest for pengene i skyen 💰"
     },
     "chessengine": {
       "pending": false,
@@ -607,6 +609,34 @@
       "title": "Gmail 🤓",
       "type": "Lyntale",
       "description": "Gmail 🤓"
+    },
+    "epub": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Kenneth Stigen",
+          "bio": "Kenneth har jobbet i som konsulent siden 2004, og i Knowit Objectnet siden januar 2010. Kenneth har sin kjernekompetanse innenfor arkitektur og utvikling av store løsninger på Java-plattformen. Kenneth er en utadvent person og fungerer godt i team. Kenneth er også veldig interessert i teknologi og tilegner seg ny kunnskap raskt. Som gruppeleder har han personalansvar for syv konsulenter, samt medansvar for rekruttering, vurdering av muligheter, sikring av oppdrag etc. De siste årene har Kenneth jobbet på prosjekter som fokuserer på kontinuerlige leveranser og mikrotjenester.",
+          "pic": "kes_knowit.no.jpg",
+          "email": "kes@knowit.no"
+        }
+      ],
+      "title": "ePub - How it's made",
+      "type": "Lyntale",
+      "description": "ePub - How it's made"
+    },
+    "elefanten": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Christoffer Eliesen",
+          "bio": "Christoffer er en engasjert utvikler som brenner for IT. Han er nysgjerrig og glad i å lære nye ting. Han stiller høye krav til seg selv og det han leverer, men er pragmatisk når det trengs. Hans interesse for IT spenner seg hele veien fra operativsystem til brukergrensesnitt, og han er derfor en naturlig fullstack og 'devops' utvikler. I disse tider er det frontend som er i vinden og Christoffers hjerte følger etter. React og Node er spennende teknologier som passer han midt i blinken. Både 'gammel' jQuery og ny React er teknologier som er givende å jobbe med for Christoffer. Flere års erfaring har gjort han trygg i rollen som konsulent. Han er beskjeden, samtidig som han er en dyp tenker med rolige øyne og et brennende hjerte.",
+          "pic": "christoffer.eliesen.JPG",
+          "email": "christoffer.eliesen@knowit.no"
+        }
+      ],
+      "title": "Elefanten i rommet: Hva er det vi driver med?",
+      "type": "Lyntale",
+      "description": "Elefanten i rommet: Hva er det vi driver med?"
     },
     "musikkquiz": {
       "pending": false,
