@@ -253,14 +253,20 @@
       "speakers": [
         {
           "name": "Jan Henrik Gundelsby",
-          "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Oslo kommune med arkitektur og prosess. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
+          "bio": "Jan Henrik er fagsjef (CTO) i Knowit Objectnet. Jobber for tiden litt hos Oslo kommune med arkitektur og prosess. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
           "pic": "jhg.jpg",
           "email": "jhg@knowit.no"
+        },
+        {
+          "name": "Christer Kjellesvig",
+          "bio": "Christer er daglig leder (COO) og avdelingsleder i Knowit Objectnet. Han er glødende opptatt av proaktiv forvaltning og effektene som skapes i samarbeid med et langsiktig perspektiv. Til daglig jobber han tett med våre største kunder, hvor gjensidig nytte er et mantra. Bakgrunn som økonom og teknolog. Bedre på å forstå det egentlig behovet, enn å realisere det teknisk.",
+          "pic": "ckj.jpg",
+          "email": "ckj@knowit.no"
         }
       ],
       "title": "Velkommen til fagseminar",
       "type": "Keynote (30 min)",
-      "description": "Fagsjefen snakker om programmet denne helgen. Om faglige satsningsområder, kunder, trender, fagaktivitet m.m."
+      "description": "Litt om programmet disse fagdagene, deretter litt faglige satsningsområder. Til slutt får Jan Henrik hjelp av Christer for å snakke om Objectnet som network of teams!"
     },
     "bjorg": {
       "pending": false,
@@ -308,7 +314,7 @@
       ],
       "title": "Mine fuckups de siste 20 årene",
       "type": "Lyntale",
-      "description": "Mine fuckups de siste 20 årene"
+      "description": "I gamle dager programmerte Jan Henrik Amiga, fra han var 15 omtrent. Siden den gang har han gjort mye rart, og feilet uttallige ganger. I denne historien mimres det tilbake om databaser, unix, domeneforståelse, umodne produkter og hastige beslutninger, feil i produksjon og ville teknologivalg. Håper noen liker meg etterpå."
     },
     "howtobeasenior": {
       "pending": false,
