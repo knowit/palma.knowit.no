@@ -99,7 +99,7 @@
               "slots": [
                 "googlecloud_kenvou",
                 "googlecloud_jos",
-                "cloudmolvig"
+                "moneybagcloud"
               ]
             },
             {
@@ -130,17 +130,16 @@
             {
               "room": "Athena",
               "slots": [
-                "moneybagcloud",
                 "gmail",
-                "epub",
+                "smidigmalt",
                 "elefanten"
               ]
             },
             {
               "room": "Apolo",
               "slots": [
-                "coreml",
                 "machinelearning",
+                "coreml",
                 "chessengine"
               ]
             },
@@ -149,7 +148,7 @@
               "slots": [
                 "hyperledger",
                 "kryptovaluta",
-                "smidigmalt"
+                "epub"
               ]
             },
             {
@@ -300,7 +299,7 @@
       ],
       "title": "Coldfusion-surprise announcement",
       "type": "Introduksjon",
-      "description": "Alle ønsker å bruke cloud når de utvikler nye ting, dette gjelder både på jobb og hjemme. Men hvor får man egentlig mest for pengene? I denne talken skal vi gå dypere ned på maskinvare-nivå og se hva de ulike skyleverandørene tilbyr."
+      "description": "Coldfusion kom ut i 1995, og lever fortsatt i mange produksjonsmiljøer. Vi skal vise litt kort hva som eksisterer der ute og argumentere hvorfor vi burde fokusere mer på dette feltet i nærmeste fremtid."
     },
     "fuckups": {
       "pending": false,
@@ -594,7 +593,7 @@
       ],
       "title": "Hvor får man mest for pengene i skyen 💰",
       "type": "Lyntale",
-      "description": "Hvor får man mest for pengene i skyen 💰"
+      "description": "Alle ønsker å bruke cloud når de utvikler nye ting, dette gjelder både på jobb og hjemme. Men hvor får man egentlig mest for pengene? I denne talken skal vi gå dypere ned på maskinvare-nivå og se hva de ulike skyleverandørene tilbyr."
     },
     "chessengine": {
       "pending": false,
