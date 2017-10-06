@@ -369,7 +369,7 @@
       ],
       "title": "Hva backend kan lære av frontend",
       "type": "Lyntale",
-      "description": "Hva backend kan lære av frontend"
+      "description": "I denne talkene kommer jeg til å gå igjennom en del nyttige verktøy/konsepter/metoder som blir brukt i moderne frontend-applikasjoner. Flere av disse ideene er ting som jeg tror også kunne være nyttig på backend. Noen av de finnes, men er kanskje ikke like utbredt der som de burde være. Transpilling, formattering, hot-reloading og snapshot testing er blant tingene som blir gjennomgått."
     },
     "hyperledger": {
       "pending": false,
