@@ -579,7 +579,7 @@
       ],
       "title": "Global Digital Library - Vi lærer verden å lese",
       "type": "Lyntale",
-      "description": "Global Digital Library - Vi lærer verden å lese"
+      "description": "Global Digital Library. * Hva er det * Hvorfor trenger vi det"
     },
     "moneybagcloud": {
       "pending": false,
@@ -677,7 +677,7 @@
         ],
         "title": "ePub - How it's made",
         "type": "Lyntale",
-        "description": "ePub - How it's made"
+        "description": "ePub er et velkjent format for mange, og vi bruker det daglig på lesebrettene våre, men hva er det egentlig? Hvordan kan man selv lage sine egne epubs?"
       },
       "elefanten": {
         "pending": false,
