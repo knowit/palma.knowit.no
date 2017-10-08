@@ -423,9 +423,9 @@
           "email": "jos@knowit.no"
         }
       ],
-      "title": "Ett eller annet om Google cloud & Spinnaker; Tittel kommer senere.",
+      "title": "Awesome deployment pipelines with Spinnaker",
       "type": "Lyntale",
-      "description": "Ett eller annet om Google cloud & Spinnaker; Tittel kommer senere."
+      "description": "Awesome deployment pipelines with Spinnaker"
     },
     "cloudmolvig": {
       "pending": false,
