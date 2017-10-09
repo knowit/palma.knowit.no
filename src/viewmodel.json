@@ -551,7 +551,7 @@
       ],
       "title": "Elm-basics forklart av en nybegynner",
       "type": "Lyntale",
-      "description": "Elm-basics forklart av en nybegynner"
+      "description": "Intro til elm forklart av noen som ikke har vært særlig borti hverken funksjonell programmering eller front-end."
     },
     "createownsensor": {
       "pending": false,
