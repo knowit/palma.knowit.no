@@ -605,9 +605,9 @@
           "email": "emil.ostensen@knowit.no"
         }
       ],
-      "title": "Masteroppgave: A Complete Chess Engine Parallelized Using Lazy SMP",
+      "title": "7 programmeringstriks brukt i moderne sjakkmotorer!",
       "type": "Lyntale",
-      "description": "Masteroppgave: A Complete Chess Engine Parallelized Using Lazy SMP"
+      "description": "Du vil ikke tro hva triks 6 gjorde med ratingen på sjakkmotoren min!"
     },
     "minikube": {
       "pending": false,
