@@ -355,7 +355,7 @@
       ],
       "title": "GDPR - Hva er dette og hva betyr det i praksis for meg og deg?",
       "type": "Lyntale",
-      "description": "GDPR - Hva er dette og hva betyr det i praksis for meg og deg?"
+      "description": "GDPR er noe flere av oss har hørt om og som vi vet kommer veldig snart, de fleste av oss vet også at det angår personvern, men hva er det egentlig vi som utviklere trenger å vite? I denne lyntalen prøver jeg å grave frem essensen i GDPR og presentere det som er viktig å ha et forhold til som utvikler. Vi er konsulenter som skal rådgi våre kunder, for å gjøre det på en god måte trenger vi alle å ha et overfladisk forhold til GDPR og hva det betyr i praksis for meg og deg."
     },
     "frontendbackend": {
       "pending": false,
@@ -565,7 +565,7 @@
       ],
       "title": "Hvordan lage sin egen sensor",
       "type": "Lyntale",
-      "description": "Hvordan lage sin egen sensor"
+      "description": "Ønsker du å utvide smarthuset ditt med egenprodusert IoT-utstyr så finnes den en god, liten og billig krets som løser de fleste problemer: ESP8266. Denne kretsen kan derimot være komplisert å komme i gang med og det finnes en del feller. Denne presentasjonen vil vise hvordan man kommer i gang med ESP8266, lager en IoT-sensor, lagrer dataene hos AWS, og hvordan unngå de vanligste fellene. Nøkkelord: IoT, ESP8266, sensor, smarthus, Lambda, API-gateway"
     },
     "gdl": {
       "pending": false,
@@ -649,7 +649,7 @@
       ],
       "title": "Maskinlæring og følelser og sånn – hvordan ta i bruk maskinlæring (basert på masteroppgaven)",
       "type": "Lyntale",
-      "description": "Maskinlæring og følelser og sånn – hvordan ta i bruk maskinlæring (basert på masteroppgaven)"
+      "description": "Telefonen kan ta opp bevegelsesdata når den ligger i lommen. Kan vi si noe om hvordan du føler deg kun ved å bruke maskinlæring på disse dataene? Dette er case for en gjennomgang av hvordan gjennomføre et maskinlæringsprosjekt; vi går gjennom alt fra planlegging, datainnsamling og databehandling til klassifisering og vurdering av resultater. Denne lyntalen blir lite teknisk og krever ingen forkunnskaper."
     },
     "gmail": {
       "pending": false,
