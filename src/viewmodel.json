@@ -99,7 +99,7 @@
               "slots": [
                 "googlecloud_kenvou",
                 "googlecloud_jos",
-                "moneybagcloud"
+                "innovationtalk"
               ]
             },
             {
@@ -301,12 +301,6 @@
           "bio": "Kennet er en ivrig utvikler som stadig er på jakt etter nye utfordringer og teknologier. Han ser på seg selv som en full-stack utvikler som trives godt både på fremsia med web- og mobilutvikling og på baksia med database- og serverapplikasjoner. Gjennom tidligere erfaringer har Kennet jobbet som DevOps-utvikler og objektorientert systemutvikling innenfor JVM. I tillegg har han vært scrum master og team- og techlead innenfor frontend. Kennet liker å jobbe i team i tett samarbeid med kunder og designere. Som person er Kennet positiv, ansvarsfull, ambisiøs og svært målrettet. Han ønsker alltid å utvikle seg faglig, og liker godt å påta seg nye og krevende utfordringer.",
           "pic": "kennet.vuong.jpg",
           "email": "kennet.vuong@knowit.no"
-        },
-        {
-          "name": "Thuc Hoang",
-          "bio": "Han jobber målrettet, verdsetter personlig kompetanseutvikling svært høyt og brenner etter å lære seg nye programmeringsspråk og teknologier. Thuc har dedikert mye av fritiden sin til å jobbe med NodeJS, nettverk og infrastruktur og sikkerhetstesting. Han jobber godt selvstendig og i team. I tillegg er han veldig lett å komme i kontakt med. Har erfaring med prosjekter hvor smidige metoder er brukt (både i skole og jobb). Han er svært fleksibel når det kommer til ansvar på jobb, og yter alltid sitt beste uavhengig hvor, hvem han er leid ut til og hva han jobber med.",
-          "pic": "Thuc.Hoang.300x375.png",
-          "email": "thuc.hoang@knowit.no"
         }
       ],
       "title": "Coldfusion-surprise announcement",
@@ -815,12 +809,6 @@
           "email": "kennet.vuong@knowit.no"
         },
         {
-          "name": "Thuc Hoang",
-          "bio": "Han jobber målrettet, verdsetter personlig kompetanseutvikling svært høyt og brenner etter å lære seg nye programmeringsspråk og teknologier. Thuc har dedikert mye av fritiden sin til å jobbe med NodeJS, nettverk og infrastruktur og sikkerhetstesting. Han jobber godt selvstendig og i team. I tillegg er han veldig lett å komme i kontakt med. Har erfaring med prosjekter hvor smidige metoder er brukt (både i skole og jobb). Han er svært fleksibel når det kommer til ansvar på jobb, og yter alltid sitt beste uavhengig hvor, hvem han er leid ut til og hva han jobber med.",
-          "pic": "Thuc.Hoang.300x375.png",
-          "email": "thuc.hoang@knowit.no"
-        },
-        {
           "name": "Joachim Seilfaldet",
           "bio": "Joachim er en utvikler med erfaring innenfor objektorienert- og funksjonellutvikling.",
           "pic": "jos.jpg",
@@ -912,6 +900,22 @@
       "title": "The Cloud Chapter - Kubernetes the hard way",
       "type": "Spark",
       "description": "Vi kjører gjennom den legendariske walkthroughen til Kelsey Hightower (Google) på Kubernetes - the hard way. Skikkelig hardcore-oppsett av Kubernetes, for de driftsnære av oss! Antagelig helt umulig å rekke på 2,5t, men da kan vi fortsette senere som et hackathon i Cloud Chapter. https://github.com/kelseyhightower/kubernetes-the-hard-way"
+    },
+    "innovationtalk": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Arne Løvold",
+          "bio": "Arne er en gla gutt",
+          "pic": "arne.lovold.jpg",
+          "email": "arne.lovold@knowit.no"
+        }
+      ],
+      "title": "Innovasjon – Hva er innovasjon og hvordan kan vi bli innovative?",
+      "type": "Spark",
+      "description": "Få fagfelt er så mye omtalt som innovasjon i de siste årene. Hvorfor er det blitt så poppis og hva er det egentlig? Ulike teknikker og metoder for innovasjon og hva kan vi gjøre."
     }
+
+
   }
 }
