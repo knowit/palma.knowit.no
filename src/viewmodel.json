@@ -39,12 +39,23 @@
       "day": "Søndag 15. Oktober",
       "collections": [
         {
-          "time": "09:00-09.30 Velkommen til fagseminar",
+          "time": "09:00-09.20 Velkommen til fagseminar",
           "entries": [
             {
               "room": "Athena",
               "slots": [
                 "fagstrategi"
+              ]
+            }
+          ]
+        },
+        {
+          "time": "09:20-09.30 Objectnet som Network of teams",
+          "entries": [
+            {
+              "room": "Athena",
+              "slots": [
+                "not"
               ]
             }
           ]
@@ -255,19 +266,15 @@
           "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Oslo kommune med arkitektur og prosess. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
           "pic": "jhg.jpg",
           "email": "jhg@knowit.no"
-        },
-        {
-          "name": "Michael Johansen",
-          "bio": "A software consultant during the day and a startup founder during the night. At NTNU I studied entrepreneurship, computer science and psychology. As part of my startup venture I've gotten first-hand experience with the startup scene in both Boston and in Silicon Valley. I care more than most people about startups, and it's a topic on which I'd like to share my insights.",
-          "pic": "mjo.jpg",
-          "email": "michael.johansen@knowit.no"
-        },
-        {
-          "name": "Anders Breivik",
-          "bio": "Anders er en erfaren teamleder med 13 års erfaring som konsulent. Som seniorkonsulent og gruppeleder i Knowit er han kjent for å være utadvendt, initiativrik og kommunikativ. Han liker å jobbe med komplekse og logiske problemstillinger, og trives med å utvikle avanserte løsninger på en smidig måte i nært samarbeid med kunder. Anders har erfaring fra utvikling på alle systemlag både i store, forretningskritiske systemer som mindre, mobile løsninger. Han har bransjeerfaring fra blant annet offentlig forvaltning, forsikring og telekom. Anders har erfaring som Scrum Master, Kanban fasilitator og teamleder i prosjekt. Som gruppeleder i Knowit har Anders personalansvar for en gruppe på 8 konsulenter, med spesielt fokus på kompetanseutvikling. Han har ansvar for selskapets deltagelse på eksterne konferanser, samt medansvar for internt fagarbeid. Anders er spesielt opptatt av formidling og deling av kunnskap, og er en mye benyttet foredragsholder på interne og eksterne konferanser. Han er sterk på både muntlig kommunikasjon og tekst, og deltar ofte i pre sale og tilbudsskriving. Han har erfaring fra arbeid med kravspesifikasjoner, systemdokumentasjon og kursing.",
-          "pic": "abr.jpg",
-          "email": "abr@knowit.no"
-        },
+        }
+      ],
+      "title": "Velkommen til fagseminar",
+      "type": "Keynote (20 min)",
+      "description": "Litt om programmet disse fagdagene og praktisk informasjon. Etter å skryte hemningsløst av fagarbeidet vårt forsøker Jan Henrik å se litt i krystallkula om hva som skjer fremover av trender og sånt!"
+    },
+    "not": {
+      "pending": false,
+      "speakers": [
         {
           "name": "Christer Kjellesvig",
           "bio": "Christer er glødende opptatt av proaktiv forvaltning og effektene som skapes i samarbeid med et langsiktig perspektiv. Til daglig jobber han tett med våre største kunder, hvor gjensidig nytte er et mantra. Bakgrunn som økonom og teknolog. Bedre på å forstå det egentlig behovet, enn å realisere det teknisk.",
@@ -275,9 +282,9 @@
           "email": "ckj@knowit.no"
         }
       ],
-      "title": "Velkommen til fagseminar",
-      "type": "Keynote (30 min)",
-      "description": "Litt om programmet disse fagdagene og praktisk informasjon. Deretter om faglige satsningsområder og til slutt litt om Objectnet som network of teams!"
+      "title": "Objectnet som Network of teams",
+      "type": "Lyntale (10 min)",
+      "description": "Objectnet som Network of teams"
     },
     "bjorg": {
       "pending": false,
@@ -641,7 +648,7 @@
       ],
       "title": " CoreML med iOS 11",
       "type": "Lyntale",
-      "description": " CoreML med iOS 11!"
+      "description": "Per-Ove vil i denne presentasjon fortelle litt om hva hypen rundt CoreML egentlig dreier seg om. Vi tar for oss litt om rammeverkets arkitektur, fordeler og hvor enkelt det er å kombinere ML kompetanse med app-utvikling. Naturligvis blir det også en demo hvor vi kombinerer bruk av ML på iOS med iBeacons! Du trenger ikke å være Apple utvikler for å få glede av denne seansen."
     },
     "machinelearning": {
       "pending": false,
