@@ -235,7 +235,6 @@
                 "talkischeap",
                 "secchapter",
                 "scalachapter",
-                "cloudchapter",
                 "aichapter",
                 "rustguild",
                 "elmspark",
@@ -805,26 +804,6 @@
       "title": "The Scala Chapter - Sangria til folket!",
       "type": "Spark",
       "description": "Vi skal leke med Sangria - et GraphQL-bibliotek for Scala. Ingen forkunnskaper kreves, men litt kjennskap til Scala anbefales."
-    },
-    "cloudchapter": {
-      "pending": false,
-      "speakers": [
-        {
-          "name": "Kennet Vuong",
-          "bio": "Kennet er en ivrig utvikler som stadig er på jakt etter nye utfordringer og teknologier. Han ser på seg selv som en full-stack utvikler som trives godt både på fremsia med web- og mobilutvikling og på baksia med database- og serverapplikasjoner. Gjennom tidligere erfaringer har Kennet jobbet som DevOps-utvikler og objektorientert systemutvikling innenfor JVM. I tillegg har han vært scrum master og team- og techlead innenfor frontend. Kennet liker å jobbe i team i tett samarbeid med kunder og designere. Som person er Kennet positiv, ansvarsfull, ambisiøs og svært målrettet. Han ønsker alltid å utvikle seg faglig, og liker godt å påta seg nye og krevende utfordringer.",
-          "pic": "kennet.vuong.jpg",
-          "email": "kennet.vuong@knowit.no"
-        },
-        {
-          "name": "Joachim Seilfaldet",
-          "bio": "Joachim er en utvikler med erfaring innenfor objektorienert- og funksjonellutvikling.",
-          "pic": "jos.jpg",
-          "email": "jos@knowit.no"
-        }
-      ],
-      "title": "The Cloud Chapter - Function like you mean it",
-      "type": "Spark",
-      "description": "Har du lyst til å teste ut den såkalte “skyen”? Hvor skal man starte å utforske, hva kan jeg egentlig få ut av disse leverandørene? I vår spark skal vi se på det nye og kule hos fleste skyleverandører: FaaS, “Function as a Service” også kjent som lambda-funksjoner. Bli med på vår versjon av extreme-startup ved å kun bruke “skyen”! Hvilken “sky” vil du være?"
     },
     "hardwareguild": {
       "pending": false,
