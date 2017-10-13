@@ -39,57 +39,32 @@
       "day": "Søndag 15. Oktober",
       "collections": [
         {
-          "time": "09:00-09.20 Velkommen til fagseminar",
+          "time": "09:00-10.00 Plenumsforedrag",
           "entries": [
             {
               "room": "Athena",
               "slots": [
-                "fagstrategi"
-              ]
-            }
-          ]
-        },
-        {
-          "time": "09:20-09.30 Objectnet som Network of teams",
-          "entries": [
-            {
-              "room": "Athena",
-              "slots": [
-                "not"
-              ]
-            }
-          ]
-        },
-        {
-          "time": "09:30-09.55 Nytt ERP-system i Knowit",
-          "entries": [
-            {
-              "room": "Athena",
-              "slots": [
+                "fagstrategi",
+                "not",
                 "bjorg"
               ]
             }
           ]
         },
         {
-          "time": "09:55-10.00 Coldfusion-surprise announcement",
-          "entries": [
-            {
-              "room": "Athena",
-              "slots": [
-                "cloudfusionintro"
-              ]
-            }
-          ]
+          "time": "10:00-10:15 Pause",
+          "isBreak": true
         },
         {
-          "time": "10.15-10.55",
+          "time": "10.15-10.55 Plenumsforedrag",
           "entries": [
             {
               "room": "Athena",
               "slots": [
                 "howtobeasenior",
-                "fuckups"
+                "fuckups",
+                "coldfusionintro"
+
               ]
             }
           ]
@@ -176,7 +151,14 @@
 
         {
           "time": "14:15-14:35 Introduksjon Open Space",
-          "isBreak": true
+          "entries": [
+            {
+              "room": "Athena",
+              "slots": [
+                "openspaceintro"
+              ]
+            }
+          ]
         },
         {
           "time": "14:35-16:00 Open Space",
@@ -229,7 +211,7 @@
           "time": "09:45-12:00 \ud83d\udd25Sparks! Følg nysgjerrigheten i dag!",
           "entries": [
             {
-              "room": "Athena, Apolo, Discobolo & Nepturn",
+              "room": "Athena, Apolo, Neptuno, Discóbolo, Urano, Mercurio & Júpiter",
               "slots": [
                 "webchapter",
                 "talkischeap",
@@ -268,7 +250,7 @@
         }
       ],
       "title": "Velkommen til fagseminar",
-      "type": "Keynote (20 min)",
+      "type": "Foredrag (20 min)",
       "description": "Litt om programmet disse fagdagene og praktisk informasjon. Etter å skryte hemningsløst av fagarbeidet vårt forsøker Jan Henrik å se litt i krystallkula om hva som skjer fremover av trender og sånt!"
     },
     "not": {
@@ -296,10 +278,10 @@
         }
       ],
       "title": "Nytt ERP-system i Knowit",
-      "type": "Keynote",
+      "type": "Foredrag (25 min)",
       "description": "I dag kjører de forskjellige Knowit selskapene mange forskjellige løsninger for administrative systemer. Slike som registrering av timer, utlegg, reiseregninger, økonomioppfølging, lønn, fakturamottak, konsernrapportering osv. Mange av disse systemene er gamle, og det er mange spesielle integrasjoner manuelle og halvautomatiske. Vi jobber nå med å innføre ett nytt system hvor dette henger sammen i standard oppsetningene. \n\nInnlegget kommer til å belyse problemstillingen, hvordan den nye løsningen vil se ut, og hvilken tidsplan vi har for dette. Samt gi et innblikk i hva som endres for den enkelte."
     },
-    "cloudfusionintro": {
+    "coldfusionintro": {
       "pending": false,
       "speakers": [
         {
@@ -310,7 +292,7 @@
         }
       ],
       "title": "Coldfusion-surprise announcement",
-      "type": "Introduksjon",
+      "type": "Introduksjon (5 min)",
       "description": "Coldfusion kom ut i 1995, og lever fortsatt i mange produksjonsmiljøer. Vi skal vise litt kort hva som eksisterer der ute og argumentere hvorfor vi burde fokusere mer på dette feltet i nærmeste fremtid."
     },
     "fuckups": {
@@ -710,6 +692,12 @@
         "title": "Introduksjon til \ud83d\udd25Sparks",
         "type": "Introduksjon",
         "description": "Sparks er et format vi prøver for første gang nå. Det er en uformell mini-workshop, hvor alle kan bidra med enten kunnskap eller prosjekt. Alle faggruppene har planlagt minst en Spark hver, men alle skal få komme med bidrag på samme måte som i Open Space. Gode forslag til en Spark er å samle en gjeng å se på et kult rammeverk eller det programmeringsspråket du aldri kom i gang med. Det trengs ingen forberedelser eller forhåndspåmelding for deltagelse, men ta med laptop!"
+      },
+      "openspaceintro":{
+        "pending": false,
+        "title": "Introduksjon til Open Space",
+        "type": "Introduksjon",
+        "description": "En selvorganiserende konferanseform. Vi lager agenda sammen. Detaljer, les her https://en.wikipedia.org/wiki/Open_Space_Technology"
       },
       "musikkquiz": {
         "pending": false,
