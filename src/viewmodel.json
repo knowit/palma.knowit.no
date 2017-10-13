@@ -221,7 +221,8 @@
                 "rustguild",
                 "elmspark",
                 "hardwareguild",
-                "kubernetespark"
+                "kubernetespark",
+                "oraclizespark"
 
               ]
             }
@@ -840,6 +841,20 @@
       "title": "The Rust Guild - Oppgaveløsning i Rust",
       "type": "Spark",
       "description": "Vi løser programmeringsoppgaver (Project Euler, julekalenderen el.). Det er kun en regel: Det skal kodes i Rust."
+    },
+    "oraclizespark": {
+      "pending": false,
+      "speakers": [
+        {
+          "name": "Sigurd Lund",
+          "bio": "Utdannet ved NTNU med mastergrad i informatikk våren 2015 der han spesialiserte seg innenfor intelligente systemer. Sigurd begynte som konsulent hos Knowit Objectnet samme år, der han gikk inn i LISA-prosjektet hos NSB. Han liker aller best backend-utvikling, og har mest erfaring med dette i både Java og Scala. Sigurd er lett å samarbeide med, og har gode kommunikasjonsegenskaper. Han trives med å ha god kontakt med kunden for å finne de beste løsningene.",
+          "pic": "Sigurd-Lund.jpg",
+          "email": "sigurd.lund@knowit.no"
+        }
+      ],
+      "title": "Ethereum + Oraclize = Useful",
+      "type": "Spark",
+      "description": "Vi går gjennom en truffle tutorial og utvider den til å bruke en orakeltjeneste kalt Oraclize til å muliggjøre henting av data fra tradisjonelle http-API'er inn til vår smarte kontrakt. Hvis det blir tid, så hoster vi hele appen vår 100% desentralisert ved hjelp av Swarm."
     },
     "elmspark": {
       "pending": false,
