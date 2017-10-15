@@ -223,7 +223,6 @@
                 "hardwareguild",
                 "kubernetespark",
                 "oraclizespark"
-
               ]
             }
           ]
@@ -880,10 +879,10 @@
       "pending": false,
       "speakers": [
         {
-          "name": "Jan Henrik Gundelsby",
-          "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Jobber for tiden litt hos Oslo kommune med arkitektur og prosess. Driver også med salg, marked og hvordan vi skal få de rette nye prosjektene. Glad i naturen og lidenskapelig opptatt av fag!",
-          "pic": "jhg.jpg",
-          "email": "jhg@knowit.no"
+          "name": "Simen Skoglund",
+          "bio": "Simen Skoglund begynte som konsulent i Knowit Objectnet i August 2015. Simen har sin kompetanse innenfor språk på JVMen, hovedsakelig Java hvor han primært jobber med backendutvikling. Simen er også over middels interessert i tankegangen bak DevOps hvor utvikleren også driver med drifting. Interessen for DevOps kom når Simen oppdaget hvor mye tid en utvikler kan spare ved å ta på seg enkle driftsoppgaver selv, og at kodekvaliteten på det man leverer blir bedre. I tillegg er Simen en positiv, ansvarsfull og utadvent person som alltid er i godt humør. Han er heller ikke redd for å ta på seg nye og utfordrende oppgaver, og er alltid ute etter å utvikle og utvide sin egen kompetanse.",
+          "pic": "Simen-Skoglund.600x750.jpg",
+          "email": "simen.skoglund@knowit.no"
         }
       ],
       "title": "The Cloud Chapter - Kubernetes the hard way",
